@@ -2,10 +2,15 @@
 Hi, welcome to my GitHub account! I'm Ezadin, a passionate full-stack and mobile application developer.
 
 🔭 I’m currently working on Flutter and MERN Stack development.
+
 👯 I’m looking to collaborate on innovative mobile and web app projects.
+
 🤝 I’m looking for help with enhancing skills in Flutter and MERN Stack technologies.
+
 🌱 I’m currently learning at Wolkite University.
+
 💬 Ask me about Flutter, MERN Stack, or mobile application development.
+
 ⚡ Fun fact: I enjoy discovering new technologies and crafting creative solutions to real-world challenges.
 
 ## 🌐 Socials
