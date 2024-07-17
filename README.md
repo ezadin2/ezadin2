@@ -12,6 +12,10 @@ Hi, welcome to my GitHub account! I'm Ezadin, a passionate full-stack and mobile
 💬 Ask me about Flutter, MERN Stack, or mobile application development.
 
 ⚡ Fun fact: I enjoy discovering new technologies and crafting creative solutions to real-world challenges.
+![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=ezadin2)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezadin-badiru-98b9862a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
