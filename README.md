@@ -52,7 +52,6 @@ Hi, welcome to my GitHub account! I'm Ezadin, a passionate full-stack and mobile
 
 ## 📊 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=ezadin2&theme=radical&hide_border=true)](https://git.io/streak-stats)
-![Ezadin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&theme=radical&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
