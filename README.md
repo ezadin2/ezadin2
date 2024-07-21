@@ -50,6 +50,11 @@ Hi, welcome to my GitHub account! I'm Ezadin, a passionate full-stack and mobile
 - 📫 Reach me through [LinkedIn](https://www.linkedin.com/in/ezadin-badiru-98b9862a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or via email at ezadinbadru55@gmail.com.
 - 💼 Currently a student at Wolkite University, enhancing my skills in full-stack and mobile application development.
 
+## 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=ezadin2&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![Ezadin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ezadin2&icon=0&color=0)](https://visitcount.itsvg.in)
 
