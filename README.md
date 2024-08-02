@@ -51,8 +51,10 @@ Hi, welcome to my GitHub account! I'm Ezadin, a passionate full-stack and mobile
 - 💼 Currently a student at Wolkite University, enhancing my skills in full-stack and mobile application development.
 
 ## 📊 GitHub Stats
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=ezadin2&theme=radical&hide_border=true)](https://git.io/streak-stats)
-         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ezadin2&icon=0&color=0)](https://visitcount.itsvg.in)
