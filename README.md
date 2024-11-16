@@ -1,11 +1,11 @@
 <div align="center" style="position: relative; display: inline-block;">
   <img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="250" height="250" style="border-radius: 50%; border: 4px solid #36BCF7; padding: 10px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 15px 25px rgba(0, 0, 0, 0.4)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3)'"/>
   
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-family: 'Poppins', sans-serif; color: #E0E0E0; text-align: center; width: 100%; display: flex; justify-content: center; gap: 30px;">
-    <div style="font-size: 18px; font-weight: 600; color: #36BCF7; animation: pulse 2s infinite;">Flutter Developer</div>
-    <div style="font-size: 18px; font-weight: 600; color: #36BCF7; animation: pulse 2s infinite;">Tech Enthusiast</div>
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-family: 'Poppins', sans-serif; color: #E0E0E0; text-align: center;">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Flutter+Developer;Tech+Enthusiast" alt="Typing SVG" style="animation: pulse 2s infinite; display: inline-block;" />
   </div>
 </div>
+
 
 
 
