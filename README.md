@@ -1,7 +1,4 @@
-Here’s the updated profile with your banner image added as requested:
-
-```markdown
-### <div align="center"><img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Banner Image" /></div>
+### <div align="center"><img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" /></div>
 
 ### <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezadin!;A+Flutter+Developer+%26+Tech+Enthusiast" alt="Typing SVG" /></div>
 
@@ -64,13 +61,3 @@ Here’s the updated profile with your banner image added as requested:
 
 ### 🚀 “Building the future, one app at a time.”  
 <!-- Proudly created with creativity and passion ✨ -->
-```
-
----
-
-### **Steps to Implement It:**
-1. Copy the above code into your `README.md` file in your GitHub profile repository.
-2. Replace the placeholder banner URL with the actual URL (`https://github.com/ezadin2/imgs/blob/main/img.jpg`).
-3. Commit the changes and refresh your GitHub profile page to see your updated profile!
-
-Feel free to tweak this as per your style! 😊
