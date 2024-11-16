@@ -16,17 +16,17 @@
 ---
 
 ## 💫 About Me  
-- 🔭 **Current Focus:** Mastering Flutter and MERN Stack development.  
-- 👯 **Collaboration:** Open to innovative app development and problem-solving projects.  
+- 🔭 **Current Focus:** Mastering Flutter and its ecosystem.  
+- 👯 **Collaboration:** Open to innovative Flutter app development and problem-solving projects.  
 - 🤝 **Seeking Help:** Eager to enhance my skills in Flutter and backend systems.  
 - 🌱 **Learning:** Pursuing a Computer Science degree at Wolkite University.  
-- 💬 **Ask Me About:** Flutter, mobile app development, or MERN Stack projects.  
+- 💬 **Ask Me About:** Flutter, mobile app development, and UI/UX design.  
 - ⚡ **Fun Fact:** I’m passionate about tech trends and creating real-world solutions!  
 
 ---
 
 ## 🎯 My Vision  
-💡 I aim to craft **efficient**, **user-friendly**, and **impactful** applications that solve real-world problems and transform ideas into reality.  
+💡 I aim to craft **efficient**, **user-friendly**, and **impactful** applications using Flutter to solve real-world problems and transform ideas into reality.  
 🌍 Let's connect and build a tech-driven future together!
 
 ---
@@ -40,29 +40,20 @@
 
 ---
 
-## 🛠 My Tech Stack  
+## 🛠 My Flutter Tech Stack  
 ### Mobile Development  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-### Frontend  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Vue](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)  
-
-### Backend  
-![NodeJS](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
-
-### Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-%232F8133.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### UI/UX Design  
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white)
 
 ### Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)  
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
