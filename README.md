@@ -7,7 +7,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="150" style="border-radius: 50%; border: 4px solid #36BCF7; padding: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); float: left; margin-right: 20px;" />
   <div style="display: inline-block; vertical-align: top;">
     <h3>Hi 👋, I'm Ezadin!</h3>
     <p><strong>A Flutter Developer & Tech Enthusiast</strong></p>
