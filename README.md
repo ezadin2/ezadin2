@@ -15,6 +15,7 @@
     <p>🚀 Turning ideas into innovative mobile and web applications ⚡</p>
   </div>
 </div>
+
 ---
 
 ## 💫 About Me  
