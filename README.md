@@ -6,11 +6,6 @@
   <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezadin!;A+Flutter+Developer+%26+Tech+Enthusiast" alt="Typing SVG" style="animation: pulse 2s infinite;" />
   </div>
-  <div style="display: inline-block; vertical-align: top; margin-top: 20px; font-size: 18px; color: #E0E0E0;">
-    <p style="font-weight: bold; font-size: 28px; color: #36BCF7; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);">A Flutter Developer & Tech Enthusiast</p>
-    <p style="font-size: 18px; font-style: italic;">✨ Crafting seamless user experiences with Flutter 🌟</p>
-    <p style="font-size: 18px; font-style: italic;">🚀 Turning ideas into innovative mobile and web apps ⚡</p>
-  </div>
 </div>
 
 <hr style="border: 1px solid #36BCF7; width: 80%; margin-top: 30px;">
