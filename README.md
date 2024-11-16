@@ -1,14 +1,15 @@
-<div align="center" style="position: relative; display: inline-block;">
+<div align="center" style="position: relative; display: flex; flex-direction: column; align-items: center;">
+  <!-- Top Typing Animation: "Hi, I'm Ezadin!" -->
+  <div align="center" style="font-family: 'Poppins', sans-serif; color: #E0E0E0; text-align: center; margin-bottom: 20px;">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezadin!;A+Flutter+Developer+%26+Tech+Enthusiast" alt="Typing SVG" style="animation: typing 3s steps(40) infinite, pulse 2s ease-in-out infinite; display: inline-block;" />
+  </div>
+
+  <!-- Profile Image with Hover Effects -->
   <img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="250" height="250" style="border-radius: 50%; border: 4px solid #36BCF7; padding: 10px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(0, 0, 0, 0.4)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3)'"/>
   
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-family: 'Poppins', sans-serif; color: #E0E0E0; text-align: center;">
+  <!-- Bottom Typing Animation: "Flutter Developer; Tech Enthusiast" -->
+  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, 50%); font-family: 'Poppins', sans-serif; color: #E0E0E0; text-align: center; margin-top: 20px;">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Flutter+Developer;Tech+Enthusiast" alt="Typing SVG" style="animation: typing 3s steps(40) infinite, pulse 2s ease-in-out infinite; display: inline-block;" />
-  </div>
-</div>
-
-<div align="center" style="font-family: 'Poppins', sans-serif; color: #E0E0E0; text-align: center;">
-  <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezadin!;A+Flutter+Developer+%26+Tech+Enthusiast" alt="Typing SVG" style="animation: typing 3s steps(40) infinite, pulse 2s ease-in-out infinite; display: inline-block;" />
   </div>
 </div>
 
