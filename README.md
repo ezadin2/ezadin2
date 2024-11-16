@@ -1,7 +1,7 @@
 <div align="center" style="position: relative; display: inline-block;">
 
   <!-- Profile Image with hover effect -->
-  <img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="400" height="400" style="border-radius: 50%; border: 4px solid #36BCF7; padding: 10px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(0, 0, 0, 0.4)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3)'"/>
+  <img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="400" height="400" style="border-radius: 50%; border: 4px solid #36BCF7; padding: 10px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease; margin-left: -10px;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(0, 0, 0, 0.4)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3)'"/>
 
   <!-- Text Animation: "Hi, I'm Ezadin!" -->
   <div align="center" style="position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); font-family: 'Poppins', sans-serif; color: #E0E0E0; text-align: center; width: 90%; white-space: nowrap; font-size: 24px; opacity: 0; animation: fadeInOut 5s ease-in-out forwards;">
@@ -14,8 +14,6 @@
   </div>
 
 </div>
-
-<hr style="border: 1px solid #36BCF7; width: 80%; margin-top: 30px;">
 
 ## 💫 About Me  
 - 🔭 **Current Focus:** Mastering Flutter to build scalable solutions and cutting-edge apps.  
