@@ -60,7 +60,7 @@
 ## 🌐 Let’s Connect  
 📧 Email: ezadinbadru55@gmail.com  
 🌍 LinkedIn: [Ezadin Badiru](https://www.linkedin.com/in/ezadin-badiru-98b9862a6)  
-🌟 Portfolio Coming Soon!  
+🌟 Portfolio:https://websiteofezo.netlify.app/
 
 ---
 
