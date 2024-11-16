@@ -1,33 +1,33 @@
 <div align="center">
-  <img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="200" style="border-radius: 50%; border: 4px solid #36BCF7; padding: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+  <img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="200" style="border-radius: 50%; border: 4px solid #36BCF7; padding: 8px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); transition: all 0.3s ease;" />
 </div>
 
-<div align="center">
+<div align="center" style="font-family: 'Fira Code', sans-serif;">
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezadin!;A+Flutter+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezadin!;A+Flutter+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
   </div>
-  <div style="display: inline-block; vertical-align: top;">
-    <p><strong>  A Flutter Developer & Tech Enthusiast</strong></p>
+  <div style="display: inline-block; vertical-align: top; margin-top: 20px; font-size: 18px; color: #333;">
+    <p style="font-weight: bold; font-size: 22px;">A Flutter Developer & Tech Enthusiast</p>
     <p>✨ Building seamless user experiences with Flutter 🌟</p>
     <p>🚀 Turning ideas into innovative mobile and web applications ⚡</p>
   </div>
 </div>
 
----
+<hr style="border: 1px solid #36BCF7; width: 80%; margin-top: 30px;">
 
 ## 💫 About Me  
-- 🔭 **Current Focus:** Mastering Flutter and its ecosystem.  
+- 🔭 **Current Focus:** Mastering Flutter and its ecosystem to build scalable solutions.  
 - 👯 **Collaboration:** Open to innovative Flutter app development and problem-solving projects.  
-- 🤝 **Seeking Help:** Eager to enhance my skills in Flutter and backend systems.  
-- 🌱 **Learning:** Pursuing a Computer Science degree at Wolkite University.  
-- 💬 **Ask Me About:** Flutter, mobile app development, and UI/UX design.  
-- ⚡ **Fun Fact:** I’m passionate about tech trends and creating real-world solutions!  
+- 🤝 **Seeking Help:** Eager to enhance my skills in Flutter, backend systems, and DevOps practices.  
+- 🌱 **Learning:** Pursuing a Computer Science degree at Wolkite University, focusing on software engineering.  
+- 💬 **Ask Me About:** Flutter, mobile app development, UI/UX design, and tech trends.  
+- ⚡ **Fun Fact:** I’m passionate about staying ahead of tech trends and solving real-world challenges!
 
 ---
 
 ## 🎯 My Vision  
-💡 I aim to craft **efficient**, **user-friendly**, and **impactful** applications using Flutter to solve real-world problems and transform ideas into reality.  
-🌍 Let's connect and build a tech-driven future together!
+💡 I aim to craft **efficient**, **user-friendly**, and **impactful** applications using Flutter, blending creativity and functionality to solve real-world problems.  
+🌍 Let's connect and build a tech-driven future together—one app at a time!
 
 ---
 
