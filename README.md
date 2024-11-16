@@ -16,17 +16,17 @@
 <hr style="border: 1px solid #36BCF7; width: 80%; margin-top: 30px;">
 
 ## 💫 About Me  
-- 🔭 **Current Focus:** Mastering Flutter and its ecosystem to build scalable solutions.  
-- 👯 **Collaboration:** Open to innovative Flutter app development and problem-solving projects.  
-- 🤝 **Seeking Help:** Eager to enhance my skills in Flutter, backend systems, and DevOps practices.  
-- 🌱 **Learning:** Pursuing a Computer Science degree at Wolkite University, focusing on software engineering.  
-- 💬 **Ask Me About:** Flutter, mobile app development, UI/UX design, and tech trends.  
-- ⚡ **Fun Fact:** I’m passionate about staying ahead of tech trends and solving real-world challenges!
+- 🔭 Current Focus: Mastering Flutter and its ecosystem to build scalable solutions.  
+- 👯 Collaboration: Open to innovative Flutter app development and problem-solving projects.  
+- 🤝 Seeking Help: Eager to enhance my skills in Flutter, backend systems, and DevOps practices.  
+- 🌱 Learning: Pursuing a Computer Science degree at Wolkite University, focusing on software engineering.  
+- 💬 Ask Me About: Flutter, mobile app development, UI/UX design, and tech trends.  
+- ⚡ Fun Fact: I’m passionate about staying ahead of tech trends and solving real-world challenges!
 
 ---
 
 ## 🎯 My Vision  
-💡 I aim to craft **efficient**, **user-friendly**, and **impactful** applications using Flutter, blending creativity and functionality to solve real-world problems.  
+💡 I aim to craft efficient, user-friendly, and impactful applications using Flutter, blending creativity and functionality to solve real-world problems.  
 🌍 Let's connect and build a tech-driven future together—one app at a time!
 
 ---
@@ -58,9 +58,9 @@
 ---
 
 ## 🌐 Let’s Connect  
-📧 **Email:** ezadinbadru55@gmail.com  
-🌍 **LinkedIn:** [Ezadin Badiru](https://www.linkedin.com/in/ezadin-badiru-98b9862a6)  
-🌟 **Portfolio Coming Soon!**  
+📧 Email: ezadinbadru55@gmail.com  
+🌍 LinkedIn: [Ezadin Badiru](https://www.linkedin.com/in/ezadin-badiru-98b9862a6)  
+🌟 Portfolio Coming Soon!  
 
 ---
 
