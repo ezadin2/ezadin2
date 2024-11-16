@@ -1,15 +1,15 @@
 <div align="center" style="position: relative; display: inline-block;">
 
-  <!-- Profile Image -->
-  <img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="300" height="300" style="border-radius: 50%; border: 4px solid #36BCF7; padding: 10px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(0, 0, 0, 0.4)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3)'"/>
+  <!-- Profile Image with hover effect -->
+  <img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="350" height="350" style="border-radius: 50%; border: 4px solid #36BCF7; padding: 10px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(0, 0, 0, 0.4)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3)'"/>
 
-  <!-- Typing Animation: "Hi, I'm Ezadin!" -->
-  <div align="center" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); font-family: 'Poppins', sans-serif; color: #E0E0E0; text-align: center; width: 90%; white-space: nowrap;">
+  <!-- Text Animation: "Hi, I'm Ezadin!" -->
+  <div align="center" style="position: absolute; top: 35%; left: 50%; transform: translate(-50%, -50%); font-family: 'Poppins', sans-serif; color: #E0E0E0; text-align: center; width: 90%; white-space: nowrap; font-size: 24px; opacity: 0; transition: opacity 0.5s;">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezadin!" alt="Typing SVG" style="animation: pulse 2s ease-in-out infinite; display: inline-block;" />
   </div>
 
-  <!-- Typing Animation: "Flutter Developer; Tech Enthusiast" -->
-  <div align="center" style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); font-family: 'Poppins', sans-serif; color: #E0E0E0; text-align: center; width: 90%; white-space: nowrap;">
+  <!-- Text Animation: "Flutter Developer; Tech Enthusiast" -->
+  <div align="center" style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); font-family: 'Poppins', sans-serif; color: #E0E0E0; text-align: center; width: 90%; white-space: nowrap; font-size: 24px; opacity: 0; transition: opacity 0.5s;">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Flutter+Developer;Tech+Enthusiast" alt="Typing SVG" style="animation: pulse 2s ease-in-out infinite; display: inline-block;" />
   </div>
 
