@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="220" height="220" style="border-radius: 50%; border: 4px solid #36BCF7; padding: 10px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 15px 25px rgba(0, 0, 0, 0.4)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3)'"/>
+  <img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="250" height="250" style="border-radius: 50%; border: 4px solid #36BCF7; padding: 10px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 15px 25px rgba(0, 0, 0, 0.4)'" onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3)'"/>
 </div>
 
 <div align="center" style="font-family: 'Poppins', sans-serif; color: #E0E0E0; text-align: center;">
@@ -28,9 +28,11 @@
 
 ## 🌟 GitHub Highlights  
 [![GitHub Grade](https://img.shields.io/badge/GitHub%20Grade-A%2B-brightgreen?style=for-the-badge)](https://github.com/ezadin2)  
-![GitHub Streak](https://streak-stats.demolab.com?user=ezadin2&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=radical&count_private=true)
-
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=radical&count_private=true" alt="Top Languages" style="max-width: 100px;" />
+  <img src="https://streak-stats.demolab.com?user=ezadin2&theme=radical&hide_border=true" alt="GitHub Streak" style="max-width: 100px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100px;" />
+</div>
 [![](https://visitcount.itsvg.in/api?id=ezadin2&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
