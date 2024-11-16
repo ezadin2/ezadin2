@@ -1,4 +1,4 @@
-### <div align="center"><img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" /></div>
+### <div align="center"><img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="300" style="border-radius: 50%;" /></div>
 
 ### <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezadin!;A+Flutter+Developer+%26+Tech+Enthusiast" alt="Typing SVG" /></div>
 
