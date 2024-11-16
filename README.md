@@ -1,6 +1,10 @@
-### <div align="center"><img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="300" style="border-radius: 50%;" /></div>
+### <div align="center">
+  <img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="200" style="border-radius: 50%; border: 4px solid #36BCF7; padding: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" />
+</div>
 
-### <div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezadin!;A+Flutter+Developer+%26+Tech+Enthusiast" alt="Typing SVG" /></div>
+### <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezadin!;A+Flutter+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
 <div align="center">  
 ✨ Building seamless user experiences with Flutter 🌟  
