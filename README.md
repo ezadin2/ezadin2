@@ -7,7 +7,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezadin!;A+Flutter+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
   </div>
   <div style="display: inline-block; vertical-align: top;">
-    <p><strong>A Flutter Developer & Tech Enthusiast</strong></p>
+    <p><strong>  A Flutter Developer & Tech Enthusiast</strong></p>
     <p>✨ Building seamless user experiences with Flutter 🌟</p>
     <p>🚀 Turning ideas into innovative mobile and web applications ⚡</p>
   </div>
