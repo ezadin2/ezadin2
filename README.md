@@ -2,12 +2,12 @@
   <img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="200" style="border-radius: 50%; border: 4px solid #36BCF7; padding: 8px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); transition: all 0.3s ease;" />
 </div>
 
-<div align="center" style="font-family: 'Fira Code', sans-serif;">
+<div align="center" style="font-family: 'Poppins', sans-serif; color: #E0E0E0;">
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezadin!;A+Flutter+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=450&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezadin!;A+Flutter+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
   </div>
-  <div style="display: inline-block; vertical-align: top; margin-top: 20px; font-size: 18px; color: #333;">
-    <p style="font-weight: bold; font-size: 22px;">A Flutter Developer & Tech Enthusiast</p>
+  <div style="display: inline-block; vertical-align: top; margin-top: 20px; font-size: 18px; color: #E0E0E0;">
+    <p style="font-weight: bold; font-size: 24px; color: #36BCF7;">A Flutter Developer & Tech Enthusiast</p>
     <p>✨ Building seamless user experiences with Flutter 🌟</p>
     <p>🚀 Turning ideas into innovative mobile and web applications ⚡</p>
   </div>
