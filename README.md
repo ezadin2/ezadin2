@@ -12,18 +12,24 @@ onmouseout="this.style.transform='rotate(0deg) scale(1)'; this.style.boxShadow='
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Flutter+Developer;Tech+Enthusiast" alt="Typing SVG" style="display: inline-block;" />
 </div>
 ## 💫 About Me  
-- 🔭 **Current Focus:** Mastering Flutter to build scalable solutions and innovative apps.  
-- 👯 **Collaboration:** Passionate about partnering on cutting-edge Flutter apps and problem-solving projects.  
-- 🤝 **Seeking Help:** Eager to expand my expertise in Flutter, backend systems, and DevOps practices.  
-- 🌱 **Learning:** Pursuing a Computer Science degree at Wolkite University, specializing in software engineering.  
-- 💬 **Ask Me About:** Flutter, mobile app development, UI/UX design, and the latest tech trends.  
-- ⚡ **Fun Fact:** Always ahead of the tech curve and solving real-world challenges with creative technology solutions!
+- 🔭 Current Focus: Mastering Flutter to build scalable solutions and innovative apps.  
+
+- 👯 Collaboration: Passionate about partnering on cutting-edge Flutter apps and problem-solving projects.
+  
+- 🤝 Seeking Help: Eager to expand my expertise in Flutter, backend systems, and DevOps practices.
+  
+- 🌱 Learning: Pursuing a Information Technology degree at Wolkite University, specializing in software engineering.
+  
+- 💬 Ask Me About: Flutter, mobile app development, UI/UX design, and the latest tech trends.
+  
+- ⚡ Fun Fact: Always ahead of the tech curve and solving real-world challenges with creative technology solutions!
 
 ---
 
 ## 🎯 My Vision  
-💡 **Goal:** Creating user-friendly, efficient applications with Flutter, combining creativity and functionality to address meaningful problems.  
-🌍 **Let’s Connect:** Together, let’s build a tech-driven future—one app at a time!
+💡 Goal: Creating user-friendly, efficient applications with Flutter, combining creativity and functionality to address meaningful problems.  
+
+🌍 Let’s Connect: Together, let’s build a tech-driven future—one app at a time!
 
 ---
 
@@ -63,9 +69,9 @@ onmouseout="this.style.transform='rotate(0deg) scale(1)'; this.style.boxShadow='
 ---
 
 ## 🌐 Let’s Connect  
-📧 **Email:** <a href="mailto:ezadinbadru55@gmail.com" style="color: #36BCF7; text-decoration: none;">ezadinbadru55@gmail.com</a>  
-🌍 **LinkedIn:** [Ezadin Badiru](https://www.linkedin.com/in/ezadin-badiru-98b9862a6)  
-🌟 **Portfolio:** [https://websiteofezo.netlify.app/](https://websiteofezo.netlify.app/)
+📧 Email: <a href="mailto:ezadinbadru55@gmail.com" style="color: #36BCF7; text-decoration: none;">ezadinbadru55@gmail.com</a>  
+🌍 LinkedIn: [Ezadin Badiru](https://www.linkedin.com/in/ezadin-badiru-98b9862a6)  
+🌟 Portfolio: [https://websiteofezo.netlify.app/](https://websiteofezo.netlify.app/)
 
 ---
 
