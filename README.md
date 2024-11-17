@@ -8,14 +8,26 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezadin!" alt="Typing SVG" style="display: inline-block;" />
   </div>
 
-  <!-- Text Animation: "Flutter Developer; Tech Enthusiast" -->
-  <div align="center" style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); font-family: 'Poppins', sans-serif; color: #E0E0E0; text-align: center; width: 90%; white-space: nowrap; font-size: 24px; opacity: 0; animation: fadeInOut 5s ease-in-out 1s forwards;">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Flutter+Developer;Tech+Enthusiast" alt="Typing SVG" style="display: inline-block;" />
+  <!-- Text Animation: "Flutter Developer; Tech Enthusiast" with Gradient Color -->
+  <div align="center" style="position: absolute; top: 60%; left: 50%; transform: translate(-50%, -50%); font-family: 'Poppins', sans-serif; text-align: center; width: 90%; white-space: nowrap; font-size: 28px; background: linear-gradient(45deg, #36BCF7, #FF6347, #32CD32); -webkit-background-clip: text; color: transparent; text-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); animation: fadeInOut 5s ease-in-out 1s forwards;">
+    Flutter Developer; Tech Enthusiast
   </div>
 
 </div>
 
-
+<style>
+  @keyframes fadeInOut {
+    0% {
+      opacity: 0;
+    }
+    50% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+</style>
 
 ## 💫 About Me  
 - 🔭 **Current Focus:** Mastering Flutter to build scalable solutions and cutting-edge apps.  
