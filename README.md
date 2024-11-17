@@ -1,16 +1,45 @@
-<img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="400" height="400" style="border-radius: 50%; border: 4px solid #36BCF7; padding: 10px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); transition: transform 0.5s ease, box-shadow 0.3s ease; margin-left: -10px;" 
-onmouseover="this.style.transform='rotate(15deg) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(0, 0, 0, 0.4)'" 
-onmouseout="this.style.transform='rotate(0deg) scale(1)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3)'"/>
+<div align="center">
+    <!-- Profile Image -->
+    <img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="400" height="400"
+         style="border-radius: 50%; border: 4px solid #36BCF7; padding: 10px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); 
+                transition: transform 0.5s ease, box-shadow 0.3s ease;"
+         onmouseover="this.style.transform='rotate(15deg) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(0, 0, 0, 0.4)'"
+         onmouseout="this.style.transform='rotate(0deg) scale(1)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3)'"/>
+</div>
 
 <!-- Text Animation: "Hi, I'm Ezadin!" -->
-<div align="left" style="position: absolute; top: 35%; left: 10%; transform: translate(-50%, -50%); font-family: 'Poppins', sans-serif; color: #E0E0E0; text-align: left; width: 90%; white-space: nowrap; font-size: 24px; opacity: 0; animation: fadeInOut 5s ease-in-out forwards; padding-right: 20px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezadin!" alt="Typing SVG" style="display: inline-block;" />
+<div align="center" style="font-family: 'Poppins', sans-serif; color: #E0E0E0; font-size: 24px; opacity: 0; 
+                          animation: fadeInOut 5s ease-in-out forwards;">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezadin!" 
+         alt="Typing SVG" style="display: inline-block;" />
 </div>
 
 <!-- Text Animation: "Flutter Developer; Tech Enthusiast" -->
-<div align="left" style="position: absolute; top: 60%; left: 10%; transform: translate(-50%, -50%); font-family: 'Poppins', sans-serif; color: #E0E0E0; text-align: left; width: 90%; white-space: nowrap; font-size: 24px; opacity: 0; animation: fadeInOut 5s ease-in-out 1s forwards; padding-right: 20px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Flutter+Developer;Tech+Enthusiast" alt="Typing SVG" style="display: inline-block;" />
+<div align="center" style="font-family: 'Poppins', sans-serif; color: #E0E0E0; font-size: 24px; opacity: 0; 
+                          animation: fadeInOut 5s ease-in-out 1s forwards;">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Flutter+Developer;Tech+Enthusiast" 
+         alt="Typing SVG" style="display: inline-block;" />
 </div>
+
+<!-- Short Description -->
+<div align="center" style="font-family: 'Poppins', sans-serif; color: #E0E0E0; font-size: 18px; margin-top: 10px;">
+    I love creating new things ⚡ Turning imagination into reality 🚀
+</div>
+
+<!-- Bio -->
+<div align="center" style="font-family: 'Poppins', sans-serif; color: #E0E0E0; font-size: 16px; margin-top: 5px;">
+    👨‍💻 I am a FullStack developer focused on web fundamentals. I work remotely to deliver quality products. 
+    I build personal projects in my free time and share them with the community to help us grow together.
+</div>
+
+<style>
+  @keyframes fadeInOut {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+</style>
+
 ## 💫 About Me  
 - 🔭 **Current Focus:** Mastering Flutter to build scalable solutions and cutting-edge apps.  
 - 👯 **Collaboration:** Passionate about collaborating on innovative Flutter apps and problem-solving projects.  
