@@ -11,7 +11,7 @@ onmouseout="this.style.transform='rotate(0deg) scale(1)'; this.style.boxShadow='
 <div align="left" style="position: absolute; top: 60%; left: 10%; transform: translate(-50%, -50%); font-family: 'Poppins', sans-serif; color: #E0E0E0; text-align: left; width: 90%; white-space: nowrap; font-size: 24px; opacity: 0; animation: fadeInOut 5s ease-in-out 1s forwards; padding-right: 20px;">
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Flutter+Developer;Tech+Enthusiast" alt="Typing SVG" style="display: inline-block;" />
 </div>
-## 💫 About Me  
+ 💫 About Me  
 - 🔭 Current Focus: Mastering Flutter to build scalable solutions and innovative apps.  
 
 - 👯 Collaboration: Passionate about partnering on cutting-edge Flutter apps and problem-solving projects.
