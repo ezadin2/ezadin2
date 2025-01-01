@@ -5,11 +5,11 @@
     <img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="200" height="200" style="border-radius: 50%; border: 4px solid #36BCF7; padding: 10px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); transition: transform 0.5s ease, box-shadow 0.3s ease;" 
     onmouseover="this.style.transform='rotate(15deg) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(0, 0, 0, 0.4)'" 
     onmouseout="this.style.transform='rotate(0deg) scale(1)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3)'"/>
-    
+
     <div style="font-size: 24px; color: #E0E0E0; font-family: 'Poppins', sans-serif; margin-top: 20px;">
       <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezadin!" alt="Typing SVG" style="display: inline-block;" />
     </div>
-    
+
     <div style="font-size: 20px; color: #E0E0E0; font-family: 'Poppins', sans-serif;">
       <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Flutter+Developer;Tech+Enthusiast" alt="Typing SVG" style="display: inline-block;" />
     </div>
@@ -93,5 +93,4 @@
   <div style="margin-top: 40px; text-align: center; font-size: 18px; font-style: italic;">
     🚀 <strong>“Building the future, one app at a time.”</strong>
   </div>
-
 </div>
