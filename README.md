@@ -6,6 +6,14 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right" alt="octopus" /> 
   </div>
 
+  <!-- Quran Audio Section -->
+  <div align="center" style="margin: 20px 0;">
+    <audio controls>
+      <source src="https://camo.githubusercontent.com/3f93b815c3964d31937a214667118dcdf9414ae4b32fec7c9ecbf2093ffd62a8/68747470733a2f2f736f756e64636c6f75642d6c6173742d736f6e672e76657263656c2e6170702f6170692f736f756e64636c6f7564" type="audio/mp3">
+      Your browser does not support the audio element.
+    </audio>
+  </div>
+
   <!-- Social and Follow Links -->
   <p align="center">
     <a href="https://github.com/ezadin2">
