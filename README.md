@@ -76,7 +76,7 @@
 
   <!-- Fun GIFs & Final Thoughts -->
   <div style="margin-top: 40px;">
-    <h4>🚀 “Building the future, one app at a time.”</h4>
+    <h4>🚀 “If u try you become perfect”</h4>
     <div style="display: flex; justify-content: center; gap: 15px;">
       <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="30" height="30" alt="Party Keanu"/>
       <img src="https://emojis.slackmojis.com/emojis/images/1450319445/43/mario.gif" width="30" height="30" alt="Mario"/>
