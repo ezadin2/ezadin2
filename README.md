@@ -20,10 +20,9 @@
     <img width="44%" style="margin:0px;padding:0px" height="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" align="right" alt="Last Game"/>
   </div>
 
-  <!-- Spotify and SoundCloud -->
-  <div align="left" width="100%">
-    <img width="43%" style="margin:0px;padding:0px" height="445px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" align="left" alt="Spotify Profile"/>
-    <img width="40%" style="margin:0px;padding:0px" height="445px" src="https://soundcloud-last-song.vercel.app/api/soundcloud" align="right" alt="SoundCloud Profile"/>
+  <!-- Quran Spotify Yaser Aldosary -->
+  <div align="center" width="100%">
+    <iframe src="https://open.spotify.com/embed/artist/1Tj35AQ94VJ40P9ESvNtS0?utm_source=generator" width="80%" height="380" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" style="border-radius:12px;" allowfullscreen></iframe>
   </div>
 
   <!-- Trophy Section -->
@@ -41,14 +40,17 @@
     </p>
   </a>
 
-  <!-- Qur'an Spotify Section -->
+  <!-- Tech Stack -->
   <p align="center">
-    <a href="https://open.spotify.com/playlist/your-quran-playlist-id" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Quran2.png" width="50px" height="50px" alt="Qur'an Image" />
-    </a>
-    <a href="https://open.spotify.com/playlist/your-quran-playlist-id" target="_blank">
-      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=your_spotify_uid&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" alt="Spotify Qur'an Playlist" height="150" />
-    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="25px" height="25px" alt="Flutter"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px" alt="JavaScript"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25px" height="25px" alt="Node.js"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25px" height="25px" alt="React"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25px" height="25px" alt="TypeScript"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25px" height="25px" alt="Java"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25px" height="25px" alt="HTML"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25px" height="25px" alt="CSS"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="25px" height="25px" alt="PHP"/>
   </p>
 
   <!-- Fun GIFs -->
