@@ -20,9 +20,10 @@
     <img width="44%" style="margin:0px;padding:0px" height="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" align="right" alt="Last Game"/>
   </div>
 
-  <!-- Quran Spotify Yaser Aldosary -->
-  <div align="center" width="100%">
-    <iframe src="https://open.spotify.com/embed/artist/1Tj35AQ94VJ40P9ESvNtS0?utm_source=generator" width="80%" height="380" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" style="border-radius:12px;" allowfullscreen></iframe>
+  <!-- Spotify and SoundCloud -->
+  <div align="left" width="100%">
+    <img width="43%" style="margin:0px;padding:0px" height="445px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" align="left" alt="Spotify Profile"/>
+    <img width="40%" style="margin:0px;padding:0px" height="445px" src="https://soundcloud-last-song.vercel.app/api/soundcloud" align="right" alt="SoundCloud Profile"/>
   </div>
 
   <!-- Trophy Section -->
