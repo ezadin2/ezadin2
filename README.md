@@ -3,7 +3,7 @@
   <!-- Top Section with Emojis -->
   <div>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" alt="octopus" /> 
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" style="float: right;" alt="octopus" /> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right" alt="octopus" /> 
   </div>
 
   <!-- Social and Follow Links -->
@@ -15,14 +15,15 @@
   </p>
 
   <!-- Chess Section -->
-  <div style="display: flex; justify-content: space-between;">
-    <img width="44%" style="margin:0px;padding:0px" height="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess1.svg" alt="Chess Profile"/>
-    <img width="44%" style="margin:0px;padding:0px" height="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" alt="Last Game"/>
+  <div align="left" width="100%">
+    <img width="44%" style="margin:0px;padding:0px" height="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess1.svg" align="left" alt="Chess Profile"/>
+    <img width="44%" style="margin:0px;padding:0px" height="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" align="right" alt="Last Game"/>
   </div>
 
-  <!-- Quran Spotify Yaser Aldosary -->
-  <div align="center" width="100%">
-    <iframe src="https://open.spotify.com/embed/artist/1Tj35AQ94VJ40P9ESvNtS0?utm_source=generator" width="80%" height="380" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" style="border-radius:12px;" allowfullscreen></iframe>
+  <!-- Spotify and SoundCloud -->
+  <div align="left" width="100%">
+    <img width="43%" style="margin:0px;padding:0px" height="445px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" align="left" alt="Spotify Profile"/>
+    <img width="40%" style="margin:0px;padding:0px" height="445px" src="https://soundcloud-last-song.vercel.app/api/soundcloud" align="right" alt="SoundCloud Profile"/>
   </div>
 
   <!-- Trophy Section -->
@@ -33,7 +34,7 @@
   </a>
 
   <!-- Stats and Languages -->
-  <a href="https://github.com/ezadin2">
+  <a align="center" href="https://github.com/ezadin2">
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="420"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
@@ -63,10 +64,10 @@
 
   <!-- Links -->
   <p align="center">
-    <a href="https://github.com/ezadin2" target="_blank">
+    <a href="https://github.com/ezadin2" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="GitHub" height="20" width="20" />
     </a>
-    <a href="https://linkedin.com/in/ezadin-badiru-98b9862a6" target="_blank">
+    <a href="https://linkedin.com/in/ezadin-badiru-98b9862a6" target="blank">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="20" width="20" />
     </a>
   </p>
