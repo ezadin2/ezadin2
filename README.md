@@ -20,11 +20,6 @@
     <img width="44%" style="margin:0px;padding:0px" height="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" align="right" alt="Last Game"/>
   </div>
 
-  <!-- Spotify and SoundCloud -->
-  <div align="left" width="100%">
-    <img width="43%" style="margin:0px;padding:0px" height="445px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=27nmzpwwd5wwhxvirwxb7cnk0&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" align="left" alt="Spotify Profile"/>
-    <img width="40%" style="margin:0px;padding:0px" height="445px" src="https://soundcloud-last-song.vercel.app/api/soundcloud" align="right" alt="SoundCloud Profile"/>
-  </div>
 
   <!-- Trophy Section -->
   <a href="https://github.com/ezadin2">
