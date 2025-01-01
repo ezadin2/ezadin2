@@ -1,9 +1,9 @@
 <div style="background: #1e293b; color: #ffffff; padding: 40px; font-family: Arial, sans-serif; text-align: center;">
 
   <!-- Profile Banner -->
-  <img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="150" height="150" style="border-radius: 50%; border: 4px solid #36BCF7; padding: 10px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); transition: transform 0.5s ease, box-shadow 0.3s ease; margin-bottom: 20px;"
-    onmouseover="this.style.transform='rotate(15deg) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(0, 0, 0, 0.4)'"
-    onmouseout="this.style.transform='rotate(0deg) scale(1)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3)'"/>
+  <img src="https://github.com/ezadin2/imgs/blob/main/img.jpg" alt="Profile Banner" width="150" height="150" style="border-radius: 50%; border: 4px solid #36BCF7; padding: 10px; box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3); transition: transform 0.5s ease, box-shadow 0.3s ease; margin-bottom: 20px;" 
+       onmouseover="this.style.transform='rotate(15deg) scale(1.1)'; this.style.boxShadow='0 15px 25px rgba(0, 0, 0, 0.4)'"
+       onmouseout="this.style.transform='rotate(0deg) scale(1)'; this.style.boxShadow='0 10px 20px rgba(0, 0, 0, 0.3)'"/>
 
   <!-- Welcome Text Animations -->
   <h2 style="font-size: 32px; color: #E0E0E0; font-family: 'Poppins', sans-serif;">
@@ -33,6 +33,14 @@
     <p>🌍 Let’s Connect: Together, let’s build a tech-driven future—one app at a time!</p>
   </div>
 
+  <!-- Social and Follow Links -->
+  <p align="center">
+    <a href="https://github.com/ezadin2">
+        <img alt="GitHub Followers" src="https://img.shields.io/github/followers/ezadin2?style=social">
+    </a>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="space gif">
+  </p>
+
   <!-- GitHub Stats & Trophies -->
   <div style="margin-top: 30px;">
     <a href="https://github.com/ezadin2">
@@ -44,26 +52,18 @@
     </div>
   </div>
 
-  <!-- My Tech Stack -->
-  <div style="margin-top: 40px;">
-    <h3>🛠 My Flutter Tech Stack</h3>
-    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
-      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-    </div>
-    <h4 style="margin-top: 30px;">UI/UX Design</h4>
-    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
-      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-      <img src="https://img.shields.io/badge/Adobe%20XD-%23FF61F6.svg?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
-    </div>
-    <h4 style="margin-top: 30px;">Tools & Platforms</h4>
-    <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
-      <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-      <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-      <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    </div>
-  </div>
+  <!-- Tech Stack -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="25px" height="25px" alt="Flutter"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px" alt="JavaScript"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25px" height="25px" alt="Node.js"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25px" height="25px" alt="React"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25px" height="25px" alt="TypeScript"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25px" height="25px" alt="Java"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25px" height="25px" alt="HTML"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25px" height="25px" alt="CSS"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="25px" height="25px" alt="PHP"/>
+  </p>
 
   <!-- Contact & Social Links -->
   <div style="margin-top: 40px; color: #E0E0E0;">
