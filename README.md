@@ -14,9 +14,6 @@
     </samp>
 </p>
 
-<h2 style="font-size: 32px; color: #E0E0E0; font-family: 'Poppins', sans-serif; margin-bottom: 20px;">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Hi+Welcome+to+My+Github+Profile+I'm+Ezadin+Flutter+Developer+Tech+Enthusiast!" alt="Typing SVG" style="display: inline-block;" />
-</h2>
 
   <!-- About Me Section -->
   <div style="margin-top: 30px; font-family: 'Arial', sans-serif; color: #E0E0E0;">
