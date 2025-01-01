@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezadin Flutter+Developer;Tech+Enthusiast!" alt="Typing SVG" style="display: inline-block;" />
   </h2>
   <p style="font-size: 24px; color: #E0E0E0; font-family: 'Poppins', sans-serif;">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Flutter+Developer;Tech+Enthusiast" alt="Typing SVG" style="display: inline-block;" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1000&color=36BCF7&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ezadin Flutter+Developer;Tech+Enthusiast!" alt="Typing SVG" style="display: inline-block;" />
   </p>
 
   <!-- About Me Section -->
