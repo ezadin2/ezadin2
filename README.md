@@ -3,7 +3,7 @@
   <!-- Top Section with Emojis -->
   <div>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" alt="octopus" /> 
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right" alt="octopus" /> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" style="float: right;" alt="octopus" /> 
   </div>
 
   <!-- Social and Follow Links -->
@@ -15,9 +15,9 @@
   </p>
 
   <!-- Chess Section -->
-  <div align="left" width="100%">
-    <img width="44%" style="margin:0px;padding:0px" height="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess1.svg" align="left" alt="Chess Profile"/>
-    <img width="44%" style="margin:0px;padding:0px" height="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" align="right" alt="Last Game"/>
+  <div style="display: flex; justify-content: space-between;">
+    <img width="44%" style="margin:0px;padding:0px" height="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess1.svg" alt="Chess Profile"/>
+    <img width="44%" style="margin:0px;padding:0px" height="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" alt="Last Game"/>
   </div>
 
   <!-- Quran Spotify Yaser Aldosary -->
@@ -33,7 +33,7 @@
   </a>
 
   <!-- Stats and Languages -->
-  <a align="center" href="https://github.com/ezadin2">
+  <a href="https://github.com/ezadin2">
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="420"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=tokyonight" alt="Top Languages" height="165">
@@ -63,10 +63,10 @@
 
   <!-- Links -->
   <p align="center">
-    <a href="https://github.com/ezadin2" target="blank">
+    <a href="https://github.com/ezadin2" target="_blank">
       <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="GitHub" height="20" width="20" />
     </a>
-    <a href="https://linkedin.com/in/ezadin-badiru-98b9862a6" target="blank">
+    <a href="https://linkedin.com/in/ezadin-badiru-98b9862a6" target="_blank">
       <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="20" width="20" />
     </a>
   </p>
