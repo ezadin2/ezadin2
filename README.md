@@ -20,11 +20,6 @@
     <img width="44%" style="margin:0px;padding:0px" height="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" align="right" alt="Last Game"/>
   </div>
 
-  <!-- Quran Spotify Yaser Aldosary -->
-  <div align="center" width="100%">
-    <iframe src="https://open.spotify.com/embed/artist/1Tj35AQ94VJ40P9ESvNtS0?utm_source=generator" width="80%" height="380" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" style="border-radius:12px;" allowfullscreen></iframe>
-  </div>
-
   <!-- Trophy Section -->
   <a href="https://github.com/ezadin2">
     <p align="center">
