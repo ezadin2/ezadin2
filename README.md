@@ -7,6 +7,12 @@
         Hi....... <img src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/hi.gif" width="40px" alt="👋"> Welcome.
 	</samp>
 </h2> 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/hi.gif" width="40px" alt="👋">
+  <br>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&width=800&lines=Hi.......+I+am+Ezadin+Flutter+Developer;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
+</div>
+
 <p>
     <samp>
     I am <span style="color:blue">Flutter Developer</span> and a <span style="color:green">Tech Enthusiast</span>. I'm passionate about learning and building innovative mobile apps, exploring new technologies, and solving real-world problems.
