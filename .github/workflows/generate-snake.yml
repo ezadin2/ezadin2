@@ -1,0 +1,26 @@
+name: Generate Snake
+
+on:
+  push:
+    branches:
+      - output  # This branch will store the generated snake SVG
+  schedule:
+    - cron: "0 0 * * *"  # Runs the workflow once daily at midnight (UTC)
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate Snake
+        uses: Platane/snk@v2
+        with:
+          github_user_name: ezadin2  # Replace with your GitHub username
+          outputs: dist/snake.svg
+
+      - name: Push Snake to the output branch
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          branch: output
+          force: true
