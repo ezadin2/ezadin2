@@ -14,10 +14,6 @@
     </samp>
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-![](https://komarev.com/ghpvc/?username=ezadin2)
 
   <!-- About Me Section -->
   <div style="margin-top: 30px; font-family: 'Arial', sans-serif; color: #E0E0E0;">
