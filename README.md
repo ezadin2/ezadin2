@@ -1,6 +1,7 @@
 <div style="background: #1e293b; color: #ffffff; padding: 40px; font-family: Arial, sans-serif; text-align: center;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&width=800&lines=Hi<img%20src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/hi.gif"%20width="40px"%20alt="👋">.......+I+am+Ezadin+Flutter+Developer;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&width=800&lines=Hi%20👋%20I%20am%20Ezadin%20Flutter%20Developer;%20Welcome%20to%20my%20GitHub%20profile.)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&width=800&lines=Hi.......+I+am+Ezadin+Flutter+Developer;Welcome+to+my+GitHub+profile.)](https://git.io/typing-svg)
 <img src="https://raw.githubusercontent.com/itspriyo/itspriyo/main/src/hi.gif" width="40px" alt="👋">
 <p>
