@@ -1,6 +1,6 @@
 <div style="background: #1e293b; color: #ffffff; padding: 40px; font-family: Arial, sans-serif; text-align: center;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=35&pause=1000&color=19F73B&width=800&lines=Hi%20👋%20Welcome%20to%20my%20GitHub%20profile%20😊%20;I%20am%20Ezadin,%20;A%20Flutter%20Developer!%20Let's%20build%20something%20amazing!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=35&pause=1000&color=19F73B&width=800&lines=Hi%20👋%20Welcome%20to%20my%20GitHub%20profile%20😊%20;I%20am%20Ezadin,%20a%20Flutter%20Developer!%20;Let's%20build%20something%20amazing!)](https://git.io/typing-svg)
 <p>
     <samp>
     I am <span style="color:blue">Flutter Developer</span> and a <span style="color:green">Tech Enthusiast</span>. I'm passionate about learning and building innovative mobile apps, exploring new technologies, and solving real-world problems.
