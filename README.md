@@ -60,6 +60,12 @@
     </div>
   </div>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezadin2&show_icons=true&locale=en&layout=compact" alt="ezadin2" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&locale=en" alt="ezadin2" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezadin2&" alt="ezadin2" /></p>
+
   <!-- Tech Stack -->
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="25px" height="25px" alt="Flutter"/>
@@ -93,8 +99,4 @@
     </div>
   </div>
 </div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezadin2&show_icons=true&locale=en&layout=compact" alt="ezadin2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&locale=en" alt="ezadin2" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezadin2&" alt="ezadin2" /></p>
