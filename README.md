@@ -1,5 +1,6 @@
 <div style="background: #1e293b; color: #ffffff; padding: 40px; font-family: Arial, sans-serif; text-align: center;">
-
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
+<br/>
 <h2> 
   <img src="https://readme-typing-svg.demolab.com?font=Mulish&size=35&pause=1000&color=19F73B&width=800&lines=Hi%20👋%20Welcome%20to%20my%20GitHub%20profile%20😊%20;I%20am%20Ezadin,%20a%20Flutter%20Developer!%20;Let's%20build%20something%20amazing!" alt="Typing SVG"/>
 </h2>
@@ -79,8 +80,7 @@
     <p>🌍 LinkedIn: <a href="https://www.linkedin.com/in/ezadin-badiru-98b9862a6" target="blank" style="color: #36BCF7;">Ezadin Badiru</a></p>
     <p>🌟 Portfolio: <a href="https://websiteofezo.netlify.app/" style="color: #36BCF7;" target="blank">https://websiteofezo.netlify.app/</a></p>
   </div>
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
+
 
   <!-- Fun GIFs & Final Thoughts -->
   <div style="margin-top: 40px;">
