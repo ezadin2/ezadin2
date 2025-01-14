@@ -79,10 +79,6 @@
     <p>🌍 LinkedIn: <a href="https://www.linkedin.com/in/ezadin-badiru-98b9862a6" target="blank" style="color: #36BCF7;">Ezadin Badiru</a></p>
     <p>🌟 Portfolio: <a href="https://websiteofezo.netlify.app/" style="color: #36BCF7;" target="blank">https://websiteofezo.netlify.app/</a></p>
   </div>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=ezadin2&theme=radical&border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ezadin2&theme=radical&hide_border=false)
-
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
 
