@@ -54,7 +54,6 @@
     <a href="https://github.com/ezadin2">
       <img src="https://github-profile-trophy.vercel.app/?username=ezadin2&column=7&theme=onedark" alt="GitHub Trophies" style="max-width: 100%;" />
     </a>
-  
   </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezadin2&show_icons=true&locale=en&layout=compact" alt="ezadin2" /></p>
@@ -64,7 +63,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezadin2&" alt="ezadin2" /></p>
 
   <!-- Tech Stack -->
-  <p align="center">
+  <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="25px" height="25px" alt="Flutter"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px" alt="JavaScript"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25px" height="25px" alt="Node.js"/>
