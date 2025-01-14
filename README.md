@@ -54,10 +54,7 @@
     <a href="https://github.com/ezadin2">
       <img src="https://github-profile-trophy.vercel.app/?username=ezadin2&column=7&theme=onedark" alt="GitHub Trophies" style="max-width: 100%;" />
     </a>
-    <div style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 48%;" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=radical&count_private=true" alt="Top Languages" style="max-width: 48%;" />
-    </div>
+  
   </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezadin2&show_icons=true&locale=en&layout=compact" alt="ezadin2" /></p>
