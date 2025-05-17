@@ -1,3 +1,4 @@
+<script> document.getElementById("datetime").innerHTML = new Date().toLocaleString(); </script> 
 <div style="background: linear-gradient(135deg, #0a0a12 0%, #1e293b 100%); color: #00ff00; padding: 40px; font-family: 'Courier New', monospace; border: 1px solid #333; box-shadow: 0 0 15px #00ff00; border-radius: 5px;">
 
   <!-- Terminal Header with Animated GIF -->
@@ -18,6 +19,7 @@
     </p>
   </div>
 
+
   <!-- About Me Section -->
   <div style="margin-bottom: 30px; background: rgba(0,0,0,0.3); padding: 20px; border-radius: 5px; border-left: 3px solid #4af626;">
     <div style="color: #00ff00; font-family: 'Courier New', monospace; margin-bottom: 10px;">
@@ -32,6 +34,7 @@
     </ul>
   </div>
 
+
   <!-- Vision Section -->
   <div style="margin-bottom: 30px; background: rgba(30,41,59,0.5); padding: 20px; border-radius: 5px; border-left: 3px solid #36BCF7;">
     <div style="color: #00ff00; font-family: 'Courier New', monospace; margin-bottom: 10px;">
@@ -44,6 +47,7 @@
       <span style="color: #4af626;">>></span> 🌍 Let's build a tech-driven future—one app at a time!
     </p>
   </div>
+
 
   <!-- Stats Section -->
   <div style="margin-bottom: 30px;">
@@ -59,6 +63,7 @@
       <img src="https://github-profile-trophy.vercel.app/?username=ezadin2&column=4&theme=onedark&no-frame=true" alt="GitHub Trophies" style="flex: 1; min-width: 300px;"/>
     </div>
   </div>
+
 
   <!-- Tech Stack -->
   <div style="margin-bottom: 30px;">
@@ -81,6 +86,7 @@
     </div>
   </div>
 
+
   <!-- Chess & Snake Sections -->
   <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 30px;">
     <div style="flex: 1; min-width: 300px;">
@@ -99,6 +105,7 @@
       <img src="https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="width: 100%;"/>
     </div>
   </div>
+
 
   <!-- Connect Section -->
   <div style="margin-bottom: 30px; background: rgba(0,0,0,0.3); padding: 20px; border-radius: 5px;">
@@ -123,6 +130,7 @@
       <p>📧 <a href="mailto:ezadinbadru55@gmail.com" style="color: #36BCF7; text-decoration: none;">ezadinbadru55@gmail.com</a></p>
     </div>
   </div>
+
 
   <!-- Footer -->
   <div style="text-align: center; margin-top: 40px; color: #555; font-size: 12px;">
