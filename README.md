@@ -13,7 +13,9 @@
 
   <!-- About Me Section -->
   <div style="margin-bottom: 30px;">
-    <h2 style="color: #4af626; border-bottom: 1px solid #333; padding-bottom: 5px;">[root@github]~# ABOUT_ME</h2>
+    <div style="color: #00ff00; font-family: 'Courier New', monospace; margin-bottom: 10px;">
+      <span style="color: #4af626;">[root@github]~#</span> ABOUT_ME
+    </div>
     <ul style="list-style-type: none; padding: 0;">
       <li><span style="color: #4af626;">>></span> 🔭 Current Focus: Building scalable Flutter solutions with clean architecture</li>
       <li><span style="color: #4af626;">>></span> 🌱 Learning: Information Technology @ Wolkite University | Software Engineering</li>
@@ -24,7 +26,9 @@
 
   <!-- Stats Section -->
   <div style="margin-bottom: 30px;">
-    <h2 style="color: #4af626; border-bottom: 1px solid #333; padding-bottom: 5px;">[root@github]~# STATS</h2>
+    <div style="color: #00ff00; font-family: 'Courier New', monospace; margin-bottom: 10px;">
+      <span style="color: #4af626;">[root@github]~#</span> STATS
+    </div>
     <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
       <img src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&theme=dark&bg_color=0a0a12&title_color=4af626&text_color=00ff00&icon_color=4af626" alt="GitHub Stats" style="width: 48%;"/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezadin2&theme=dark&background=0a0a12&stroke=333&ring=4af626&fire=4af626&currStreakNum=00ff00&sideNums=00ff00&currStreakLabel=00ff00&sideLabels=00ff00&dates=555" alt="GitHub Streak" style="width: 48%;"/>
@@ -34,7 +38,9 @@
 
   <!-- Tech Stack -->
   <div style="margin-bottom: 30px;">
-    <h2 style="color: #4af626; border-bottom: 1px solid #333; padding-bottom: 5px;">[root@github]~# TECH_STACK</h2>
+    <div style="color: #00ff00; font-family: 'Courier New', monospace; margin-bottom: 10px;">
+      <span style="color: #4af626;">[root@github]~#</span> TECH_STACK
+    </div>
     <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
@@ -50,7 +56,9 @@
 
   <!-- Chess Section -->
   <div style="margin-bottom: 30px;">
-    <h2 style="color: #4af626; border-bottom: 1px solid #333; padding-bottom: 5px;">[root@github]~# CHESS</h2>
+    <div style="color: #00ff00; font-family: 'Courier New', monospace; margin-bottom: 10px;">
+      <span style="color: #4af626;">[root@github]~#</span> CHESS
+    </div>
     <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
       <img width="48%" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess1.svg" alt="Chess Profile"/>
       <img width="48%" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" alt="Last Game"/>
@@ -59,13 +67,17 @@
 
   <!-- Snake Animation -->
   <div style="margin-bottom: 30px;">
-    <h2 style="color: #4af626; border-bottom: 1px solid #333; padding-bottom: 5px;">[root@github]~# CONTRIBUTIONS</h2>
+    <div style="color: #00ff00; font-family: 'Courier New', monospace; margin-bottom: 10px;">
+      <span style="color: #4af626;">[root@github]~#</span> CONTRIBUTIONS
+    </div>
     <img src="https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="width: 100%;"/>
   </div>
 
   <!-- Contact Section -->
   <div style="margin-bottom: 30px;">
-    <h2 style="color: #4af626; border-bottom: 1px solid #333; padding-bottom: 5px;">[root@github]~# CONNECT</h2>
+    <div style="color: #00ff00; font-family: 'Courier New', monospace; margin-bottom: 10px;">
+      <span style="color: #4af626;">[root@github]~#</span> CONNECT
+    </div>
     <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
       <a href="https://www.linkedin.com/in/ezadin-badiru-915930356/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -84,8 +96,12 @@
 
   <!-- Footer -->
   <div style="text-align: center; margin-top: 40px; color: #555; font-size: 12px;">
-    <p>Last updated: <span id="datetime"></span></p>
-    <p>echo "Keep coding, keep pushing!"</p>
+    <div style="color: #00ff00; font-family: 'Courier New', monospace; margin-bottom: 5px;">
+      <span style="color: #4af626;">$</span> echo "Last updated: <span id="datetime"></span>"
+    </div>
+    <div style="color: #00ff00; font-family: 'Courier New', monospace;">
+      <span style="color: #4af626;">$</span> echo "Keep coding, keep pushing!"
+    </div>
   </div>
 
   <script>
