@@ -2,6 +2,9 @@
 
 ![Profile Banner](https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=80&lines=Flutter+Developer+%7C+UI%2FUX+Enthusiast;Tech+Innovator+%7C+Problem+Solver;Information+Technology+Student+@Wolkite+Uni.." alt="Typing SVG" />
+</p>
 <h1 style="color: #38bdf8; font-size: 2.5rem; margin-bottom: 0.5rem;">Ezadin Badiru</h1>
 <h3 style="color: #94a3b8; font-weight: 400; margin-top: 0;">Flutter Developer | Tech Enthusiast | Problem Solver</h3>
 
@@ -12,8 +15,6 @@
 </div>
 
 <div style="background: #1e293b; color: #f8fafc; padding: 2rem; margin-top: 1.5rem; border-radius: 12px;">
-
-## 🚀 Professional Profile
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=80&lines=Flutter+Developer+%7C+UI%2FUX+Enthusiast;Tech+Innovator+%7C+Problem+Solver;Information+Technology+Student+@Wolkite+Uni.." alt="Typing SVG" />
