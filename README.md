@@ -9,6 +9,11 @@
 <h1 style="color: #38bdf8; font-size: 2.8rem; margin-bottom: 0.5rem; font-weight: 700; letter-spacing: -0.5px;">Ezadin Badiru</h1>
 <h3 style="color: #94a3b8; font-weight: 400; margin-top: 0; font-size: 1.2rem;">Flutter Developer | UI/UX Specialist | Tech Innovator</h3>
 
+<!-- Typing SVG from first version -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=80&lines=Flutter+Developer+%7C+UI%2FUX+Enthusiast;Tech+Innovator+%7C+Problem+Solver;Information+Technology+Student+@Wolkite+Uni.." alt="Typing SVG" />
+</p>
+
 <div style="max-width: 800px; margin: 2rem auto; line-height: 1.6; font-size: 1.05rem;">
   Passionate about crafting elegant, high-performance mobile applications with Flutter. Currently pursuing my degree in Information Technology while developing cutting-edge solutions that bridge technology with real-world needs. Focused on creating seamless user experiences with clean, maintainable code.
 </div>
