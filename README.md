@@ -16,11 +16,6 @@
 
 <div style="background: #1e293b; color: #f8fafc; padding: 2rem; margin-top: 1.5rem; border-radius: 12px;">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=80&lines=Passionate+about+building+elegant%2C+efficient+mobile+applications+using+Flutter.+Currently+pursuing+my+degree+while+developing+cutting-edge+solutions+that+bridge+technology+and+real-world+needs." alt="Typing SVG" />
-</p>
-
-
 
 Passionate about building elegant, efficient mobile applications using Flutter. Currently pursuing my degree while developing cutting-edge solutions that bridge technology and real-world needs.
 
