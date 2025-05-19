@@ -26,37 +26,92 @@
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-top: 2rem;">
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin-top: 2rem;">
+
+<!-- Core Competencies -->
 <div style="background: #1e293b; padding: 2rem; border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); transition: transform 0.3s ease; border-left: 4px solid #38bdf8;">
 
-## <span style="color: #38bdf8;">💼</span> Core Competencies
+## <span style="color: #38bdf8;">🚀 Core Superpowers</span>
 
-- **Mobile Development**:  
-  <span style="display: inline-block; background: rgba(56, 189, 248, 0.1); padding: 0.3rem 0.8rem; border-radius: 20px; margin: 0.2rem;">Flutter</span>
-  <span style="display: inline-block; background: rgba(56, 189, 248, 0.1); padding: 0.3rem 0.8rem; border-radius: 20px; margin: 0.2rem;">Dart</span>
-  <span style="display: inline-block; background: rgba(56, 189, 248, 0.1); padding: 0.3rem 0.8rem; border-radius: 20px; margin: 0.2rem;">Firebase</span>
+<div style="margin-top: 1rem;">
 
-- **Web Technologies**:  
-  <span style="display: inline-block; background: rgba(56, 189, 248, 0.1); padding: 0.3rem 0.8rem; border-radius: 20px; margin: 0.2rem;">JavaScript</span>
-  <span style="display: inline-block; background: rgba(56, 189, 248, 0.1); padding: 0.3rem 0.8rem; border-radius: 20px; margin: 0.2rem;">React</span>
-  <span style="display: inline-block; background: rgba(56, 189, 248, 0.1); padding: 0.3rem 0.8rem; border-radius: 20px; margin: 0.2rem;">Node.js</span>
+### <span style="color: #38bdf8;">📱 Mobile Mastery</span>
+<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0.5rem 0 1rem;">
+  <span style="display: inline-flex; align-items: center; background: rgba(56, 189, 248, 0.1); padding: 0.4rem 0.9rem; border-radius: 20px;">
+    <span style="margin-right: 0.3rem;">📱</span> Flutter
+  </span>
+  <span style="display: inline-flex; align-items: center; background: rgba(56, 189, 248, 0.1); padding: 0.4rem 0.9rem; border-radius: 20px;">
+    <span style="margin-right: 0.3rem;">🎯</span> Dart
+  </span>
+  <span style="display: inline-flex; align-items: center; background: rgba(56, 189, 248, 0.1); padding: 0.4rem 0.9rem; border-radius: 20px;">
+    <span style="margin-right: 0.3rem;">🔥</span> Firebase
+  </span>
+</div>
 
-- **UI/UX Design**:  
-  <span style="display: inline-block; background: rgba(56, 189, 248, 0.1); padding: 0.3rem 0.8rem; border-radius: 20px; margin: 0.2rem;">Figma</span>
-  <span style="display: inline-block; background: rgba(56, 189, 248, 0.1); padding: 0.3rem 0.8rem; border-radius: 20px; margin: 0.2rem;">Material Design</span>
+### <span style="color: #38bdf8;">🌐 Web Wizardry</span>
+<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0.5rem 0 1rem;">
+  <span style="display: inline-flex; align-items: center; background: rgba(56, 189, 248, 0.1); padding: 0.4rem 0.9rem; border-radius: 20px;">
+    <span style="margin-right: 0.3rem;">✨</span> JavaScript
+  </span>
+  <span style="display: inline-flex; align-items: center; background: rgba(56, 189, 248, 0.1); padding: 0.4rem 0.9rem; border-radius: 20px;">
+    <span style="margin-right: 0.3rem;">⚛️</span> React
+  </span>
+  <span style="display: inline-flex; align-items: center; background: rgba(56, 189, 248, 0.1); padding: 0.4rem 0.9rem; border-radius: 20px;">
+    <span style="margin-right: 0.3rem;">🟢</span> Node.js
+  </span>
+</div>
 
-- **DevOps & Tools**:  
-  <span style="display: inline-block; background: rgba(56, 189, 248, 0.1); padding: 0.3rem 0.8rem; border-radius: 20px; margin: 0.2rem;">Git</span>
-  <span style="display: inline-block; background: rgba(56, 189, 248, 0.1); padding: 0.3rem 0.8rem; border-radius: 20px; margin: 0.2rem;">Docker</span>
-  <span style="display: inline-block; background: rgba(56, 189, 248, 0.1); padding: 0.3rem 0.8rem; border-radius: 20px; margin: 0.2rem;">CI/CD</span>
+### <span style="color: #38bdf8;">🎨 Design & UX</span>
+<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0.5rem 0 1rem;">
+  <span style="display: inline-flex; align-items: center; background: rgba(56, 189, 248, 0.1); padding: 0.4rem 0.9rem; border-radius: 20px;">
+    <span style="margin-right: 0.3rem;">✏️</span> Figma
+  </span>
+  <span style="display: inline-flex; align-items: center; background: rgba(56, 189, 248, 0.1); padding: 0.4rem 0.9rem; border-radius: 20px;">
+    <span style="margin-right: 0.3rem;">🌈</span> Material Design
+  </span>
+</div>
+
+### <span style="color: #38bdf8;">⚙️ DevOps & Tools</span>
+<div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0.5rem 0 0;">
+  <span style="display: inline-flex; align-items: center; background: rgba(56, 189, 248, 0.1); padding: 0.4rem 0.9rem; border-radius: 20px;">
+    <span style="margin-right: 0.3rem;">🐙</span> Git
+  </span>
+  <span style="display: inline-flex; align-items: center; background: rgba(56, 189, 248, 0.1); padding: 0.4rem 0.9rem; border-radius: 20px;">
+    <span style="margin-right: 0.3rem;">🐳</span> Docker
+  </span>
+  <span style="display: inline-flex; align-items: center; background: rgba(56, 189, 248, 0.1); padding: 0.4rem 0.9rem; border-radius: 20px;">
+    <span style="margin-right: 0.3rem;">🔄</span> CI/CD
+  </span>
+</div>
 
 </div>
 
+</div>
+
+<!-- GitHub Achievements -->
 <div style="background: #1e293b; padding: 2rem; border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); transition: transform 0.3s ease; border-left: 4px solid #38bdf8;">
 
-## <span style="color: #38bdf8;">🏆</span> GitHub Achievements
+## <span style="color: #38bdf8;">🏆 GitHub Glory</span>
 
-<div style="display: flex; justify-content: center; margin-top: 1rem;">
+<div style="margin-top: 1rem; text-align: center;">
   <img src="https://github-profile-trophy.vercel.app/?username=ezadin2&column=4&theme=nord&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" style="max-width: 100%; border-radius: 8px;" />
+  
+  <div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-top: 1.5rem; gap: 1rem;">
+    <div style="text-align: center;">
+      <div style="font-size: 2rem;">⭐</div>
+      <div style="font-weight: 600; color: #38bdf8;">Stars Earned</div>
+    </div>
+    <div style="text-align: center;">
+      <div style="font-size: 2rem;">📚</div>
+      <div style="font-weight: 600; color: #38bdf8;">Repositories</div>
+    </div>
+    <div style="text-align: center;">
+      <div style="font-size: 2rem;">🔀</div>
+      <div style="font-weight: 600; color: #38bdf8;">Contributions</div>
+    </div>
+  </div>
+</div>
+
 </div>
 
 </div>
