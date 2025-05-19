@@ -102,7 +102,7 @@ Passionate about building elegant, efficient mobile applications using Flutter. 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezadin-badiru-98b9862a6)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://websiteofezo.netlify.app/](https://my-portifolio-3ckvuho4y-ezadin-badrus-projects.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portifolio-3ckvuho4y-ezadin-badrus-projects.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezadinbadru55@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ezadin2)
 
