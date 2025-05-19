@@ -16,7 +16,7 @@
 ## 🚀 Professional Profile
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=80&lines=Flutter+Developer+%7C+UI%2FUX+Enthusiast;Tech+Innovator+%7C+Problem+Solver;Information+Technology+Student+@Wolkite+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=80&lines=Flutter+Developer+%7C+UI%2FUX+Enthusiast;Tech+Innovator+%7C+Problem+Solver;Information+Technology+Student+@+Wolkite+Uni" alt="Typing SVG" />
 </p>
 
 Passionate about building elegant, efficient mobile applications using Flutter. Currently pursuing my degree while developing cutting-edge solutions that bridge technology and real-world needs.
