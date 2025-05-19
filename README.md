@@ -1,97 +1,124 @@
-<div style="background: #1e293b; color: #ffffff; padding: 40px; font-family: Arial, sans-serif; text-align: center;">
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
+<div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); color: #f8fafc; padding: 2rem; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
 
+![Profile Banner](https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true)
 
+<h1 style="color: #38bdf8; font-size: 2.5rem; margin-bottom: 0.5rem;">Ezadin Badiru</h1>
+<h3 style="color: #94a3b8; font-weight: 400; margin-top: 0;">Flutter Developer | Tech Enthusiast | Problem Solver</h3>
 
-
-<p>
-    <samp>
-    I am <span style="color:blue">Flutter Developer</span> and a <span style="color:green">Tech Enthusiast</span>. I'm passionate about learning and building innovative mobile apps, exploring new technologies, and solving real-world problems.
-    </samp>
-</p>
-
+<!-- GitHub Snake Animation -->
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-  <!-- About Me Section -->
-  <div style="margin-top: 30px; font-family: 'Arial', sans-serif; color: #E0E0E0;">
-    <h3>💫 About Me</h3>
-    <ul style="list-style-type: none; padding: 0;">
-      <li>🔭 Current Focus: Mastering Flutter to build scalable solutions and innovative apps.</li>
-      <li>👯 Collaboration: Passionate about partnering on cutting-edge Flutter apps and problem-solving projects.</li>
-      <li>🤝 Seeking Help: Eager to expand my expertise in Flutter, backend systems, and DevOps practices.</li>
-      <li>🌱 Learning: Pursuing a degree in Information Technology at Wolkite University, specializing in software engineering.</li>
-      <li>💬 Ask Me About: Flutter, mobile app development, UI/UX design, and the latest tech trends.</li>
-      <li>⚡️ Fun Fact: Always ahead of the tech curve and solving real-world challenges with creative technology solutions!</li>
-    </ul>
-  </div>
-
-  <!-- Vision Section -->
-  <div style="margin-top: 30px; color: #E0E0E0;">
-    <h3>🎯 My Vision</h3>
-    <p>💡 Goal: Creating user-friendly, efficient applications with Flutter, combining creativity and functionality to address meaningful problems.</p>
-    <p>🌍 Let’s Connect: Together, let’s build a tech-driven future—one app at a time!</p>
-  </div>
-
-  <!-- Chess Section -->
-  <div align="left" width="100%" style="margin-top: 30px;">
-    <img width="44%" style="margin:0px;padding:0px" height="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess1.svg" align="left" alt="Chess Profile"/>
-    <img width="44%" style="margin:0px;padding:0px" height="445px" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" align="right" alt="Last Game"/>
-  </div>
-
-  <!-- Social and Follow Links -->
-  <p align="center">
-    <a href="https://github.com/ezadin2">
-        <img alt="GitHub Followers" src="https://img.shields.io/github/followers/ezadin2?style=social">
-    </a>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="space gif">
-  </p>
-
-  <!-- GitHub Stats & Trophies -->
-  <div style="margin-top: 30px;">
-    <a href="https://github.com/ezadin2">
-      <img src="https://github-profile-trophy.vercel.app/?username=ezadin2&column=7&theme=onedark" alt="GitHub Trophies" style="max-width: 100%;" />
-    </a>
-  </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezadin2&show_icons=true&locale=en&layout=compact" alt="ezadin2" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&locale=en" alt="ezadin2" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezadin2&" alt="ezadin2" /></p>
-
-  <!-- Tech Stack -->
-  <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="25px" height="25px" alt="Flutter"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25px" height="25px" alt="JavaScript"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25px" height="25px" alt="Node.js"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25px" height="25px" alt="React"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25px" height="25px" alt="TypeScript"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25px" height="25px" alt="Java"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25px" height="25px" alt="HTML"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25px" height="25px" alt="CSS"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="25px" height="25px" alt="PHP"/>
-  </p>
-
-  <!-- Contact & Social Links -->
-  <div style="margin-top: 40px; color: #E0E0E0;">
-    <h3>🌐 Let’s Connect</h3>
-    <p>📧 Email: <a href="mailto:ezadinbadru55@gmail.com" style="color: #36BCF7; text-decoration: none;">ezadinbadru55@gmail.com</a></p>
-    <p>🌍 LinkedIn: <a href="https://www.linkedin.com/in/ezadin-badiru-98b9862a6" target="blank" style="color: #36BCF7;">Ezadin Badiru</a></p>
-    <p>🌟 Portfolio: <a href="https://websiteofezo.netlify.app/" style="color: #36BCF7;" target="blank">https://websiteofezo.netlify.app/</a></p>
-  </div>
-
-
-  <!-- Fun GIFs & Final Thoughts -->
-  <div style="margin-top: 40px;">
-    <h4>🚀 “If u try you become perfect”</h4>
-    <div style="display: flex; justify-content: center; gap: 15px;">
-      <img src="https://emojis.slackmojis.com/emojis/images/1598364417/10264/partykeanu.gif" width="30" height="30" alt="Party Keanu"/>
-      <img src="https://emojis.slackmojis.com/emojis/images/1450319445/43/mario.gif" width="30" height="30" alt="Mario"/>
-      <img src="https://emojis.slackmojis.com/emojis/images/1450372448/149/sonic.gif" width="30" height="30" alt="Sonic"/>
-      <img src="https://emojis.slackmojis.com/emojis/images/1450458551/184/nyancat_big.gif" width="30" height="30" alt="Nyan Cat"/>
-    </div>
-  </div>
 </div>
 
+<div style="background: #1e293b; color: #f8fafc; padding: 2rem; margin-top: 1.5rem; border-radius: 12px;">
+
+## 🚀 Professional Profile
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=80&lines=Flutter+Developer+%7C+UI%2FUX+Enthusiast;Tech+Innovator+%7C+Problem+Solver;Information+Technology+Student+@+Wolkite+University" alt="Typing SVG" />
+</p>
+
+Passionate about building elegant, efficient mobile applications using Flutter. Currently pursuing my degree while developing cutting-edge solutions that bridge technology and real-world needs.
+
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-top: 1.5rem;">
+
+<div style="background: #1e293b; padding: 1.5rem; border-radius: 12px;">
+
+## 💼 Core Competencies
+
+- 📱 **Mobile Development**: Flutter, Dart, Firebase
+- 🌐 **Web Technologies**: JavaScript, React, Node.js
+- 🎨 **UI/UX Design**: Figma, Material Design
+- 🛠 **Tools & DevOps**: Git, Docker, CI/CD
+- 🗄 **Databases**: Firestore, SQL, MongoDB
+
+</div>
+
+<div style="background: #1e293b; padding: 1.5rem; border-radius: 12px;">
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ezadin2&column=7&theme=nord&no-frame=true&margin-w=15" alt="GitHub Trophies" style="max-width: 100%;" />
+</p>
+
+</div>
+
+</div>
+
+<div style="background: #1e293b; color: #f8fafc; padding: 2rem; margin-top: 1.5rem; border-radius: 12px;">
+
+## 📊 GitHub Analytics
+
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ezadin2&show_icons=true&locale=en&layout=compact&theme=nord)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&locale=en&theme=nord&include_all_commits=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ezadin2&theme=nord)
+
+</div>
+
+</div>
+
+<div style="background: #1e293b; color: #f8fafc; padding: 2rem; margin-top: 1.5rem; border-radius: 12px;">
+
+## 🛠 Tech Stack
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; margin-top: 1rem;">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+</div>
+
+<div style="background: #1e293b; color: #f8fafc; padding: 2rem; margin-top: 1.5rem; border-radius: 12px;">
+
+## ♟ Chess Profile
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
+
+<img width="45%" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess1.svg" alt="Chess Profile"/>
+
+<img width="45%" src="https://raw.githubusercontent.com/arash-hacker/gess/main/chess.svg" alt="Last Game"/>
+
+</div>
+
+</div>
+
+<div style="background: #1e293b; color: #f8fafc; padding: 2rem; margin-top: 1.5rem; border-radius: 12px;">
+
+## 🌐 Connect With Me
+
+<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezadin-badiru-98b9862a6)
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://websiteofezo.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezadinbadru55@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ezadin2)
+
+</p>
+
+</div>
+
+<div align="center" style="margin-top: 2rem;">
+
+<p style="color: #94a3b8; font-size: 0.9rem;">
+  "The only way to do great work is to love what you do." - Steve Jobs
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=ezadin2&label=Profile%20views&color=0e75b6&style=flat" alt="ezadin2" />
+
+</div>
