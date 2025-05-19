@@ -26,8 +26,7 @@ Passionate about building elegant, efficient mobile applications using Flutter. 
 <div style="background: #1e293b; padding: 1.5rem; border-radius: 12px;">
 
 ## 💼 Core Competencies
-
-- 📱 Mobile Development: Flutter, Dart, Firebase
+📱 Mobile Development: Flutter, Dart, Firebase
 - 🌐 Web Technologies: JavaScript, React, Node.js
 - 🎨 UI/UX Design: Figma, Material Design
 - 🛠 Tools & DevOps: Git, Docker, CI/CD
