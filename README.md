@@ -114,22 +114,26 @@
 
 </div>
 
-<div style="background: #1e293b; color: #f8fafc; padding: 2.5rem; margin-top: 2rem; border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
+<div style="background: #1e293b; color: #f8fafc; padding: 2rem; margin-top: 2rem; border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
 
 ## <span style="color: #38bdf8;">📊</span> GitHub Analytics
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: space-between; align-items: flex-start; margin-top: 1.5rem;">
+<div style="display: flex; flex-direction: column; gap: 1rem; margin-top: 1rem;">
 
-<div style="flex: 1; min-width: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&locale=en&theme=nord&include_all_commits=true&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc&icon_color=38bdf8" alt="GitHub Stats" style="width: 100%;"/>
+<!-- Compact Stats Row -->
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+  <div style="flex: 1; min-width: 280px; max-width: 350px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&count_private=true&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc&icon_color=38bdf8&hide_title=true&card_width=300" alt="GitHub Stats" style="width: 100%; height: auto;"/>
+  </div>
+  
+  <div style="flex: 1; min-width: 280px; max-width: 350px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezadin2&theme=nord&hide_border=true&background=1e293b&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=38bdf8&sideLabels=94a3b8&hide_title=true" alt="Streak Stats" style="width: 100%; height: auto;"/>
+  </div>
 </div>
 
-<div style="flex: 1; min-width: 30px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezadin2&theme=nord&hide_border=true&background=1e293b&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=38bdf8&sideLabels=94a3b8" alt="Streak Stats" style="width: 100%;"/>
-</div>
-
-<div style="flex: 1; min-width: 30px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ezadin2&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc" alt="Top Languages" style="width: 100%;"/>
+<!-- Languages Card (full width but compact) -->
+<div style="width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ezadin2&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc&hide_title=true" alt="Top Languages" style="width: 100%; max-width: 600px; margin: 0 auto; display: block; height: auto;"/>
 </div>
 
 </div>
