@@ -120,15 +120,15 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: space-between; align-items: flex-start; margin-top: 1.5rem;">
 
-<div style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 30px;">
   <img src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&locale=en&theme=nord&include_all_commits=true&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc&icon_color=38bdf8" alt="GitHub Stats" style="width: 100%;"/>
 </div>
 
-<div style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 30px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezadin2&theme=nord&hide_border=true&background=1e293b&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=38bdf8&sideLabels=94a3b8" alt="Streak Stats" style="width: 100%;"/>
 </div>
 
-<div style="flex: 1; min-width: 300px;">
+<div style="flex: 1; min-width: 30px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ezadin2&show_icons=true&locale=en&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc" alt="Top Languages" style="width: 100%;"/>
 </div>
 
