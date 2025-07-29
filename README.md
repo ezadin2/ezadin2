@@ -24,12 +24,6 @@
 
 </div>
 
-
-<!-- Languages Card -->
-<div style="flex: 1; min-width: 250px; max-width: 300px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ezadin2&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc&hide_title=true&langs_count=5" alt="Top Languages" style="width: 100%; height: auto;"/>
-</div>
-
 </div>
 
 <!-- Activity Graph -->
