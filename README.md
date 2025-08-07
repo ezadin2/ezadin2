@@ -1,4 +1,4 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🌒™, [8/7/2025 6:34 AM]
+
 <!-- Profile Header with Glowing Effects -->
 <div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); color: #f8fafc; padding: 2.5rem 1.5rem; font-family: 'Inter', sans-serif; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); position: relative; overflow: hidden;">
 
@@ -12,7 +12,9 @@
   <!-- Name and Title -->
   <h1 style="color: #38bdf8; font-size: 2.5rem; margin-bottom: 0.5rem; font-weight: 700; letter-spacing: -0.5px; z-index: 1;">Ezadin Badiru</h1>
   <h3 style="color: #94a3b8; font-weight: 400; margin-top: 0; font-size: 1.1rem; z-index: 1;">Flutter Developer | UI/UX Specialist | Tech Innovator</h3>
-
+  <!-- GitHub Snake Contribution Graph -->
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&height=70&lines=Flutter+Developer+%7C+UI%2FUX+Enthusiast;Tech+Innovator+%7C+Problem+Solver;" alt="Typing SVG" />
 
@@ -22,9 +24,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc" alt="Top Languages" style="height: 180px; border-radius: 8px;"/>
   </div>
 
-  <!-- GitHub Snake Contribution Graph -->
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 </div>
 
@@ -40,7 +40,6 @@
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-top: 1.5rem;">
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🌒™, [8/7/2025 6:34 AM]
 <!-- Project 1 -->
 <div style="background: #0f172a; padding: 1.2rem; border-radius: 8px; border-left: 4px solid #38bdf8;">
   <h3 style="margin-top: 0; color: #38bdf8;">Flutter E-Commerce App</h3>
@@ -99,7 +98,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.6rem; margin-top: 1rem;">
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🌒™, [8/7/2025 6:34 AM]
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
