@@ -1,32 +1,34 @@
-<!-- Profile Banner Container -->
+<!-- Profile Header with Glowing Effects -->
 <div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); color: #f8fafc; padding: 2.5rem 1.5rem; font-family: 'Inter', sans-serif; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); position: relative; overflow: hidden;">
 
-  <!-- Animated background elements -->
-  <div style="position: absolute; top: -60px; right: -60px; width: 220px; height: 220px; background: rgba(56, 189, 248, 0.12); border-radius: 50%; filter: blur(10px); animation: float 6s ease-in-out infinite;"></div>
-  <div style="position: absolute; bottom: -40px; left: -40px; width: 180px; height: 180px; background: rgba(56, 189, 248, 0.1); border-radius: 50%; filter: blur(8px); animation: float 7s ease-in-out infinite reverse;"></div>
+  <!-- Glowing Circles (Static but visually like animated) -->
+  <div style="position: absolute; top: -60px; right: -60px; width: 200px; height: 200px; background: rgba(56, 189, 248, 0.12); border-radius: 50%; filter: blur(30px); z-index: 0;"></div>
+  <div style="position: absolute; bottom: -40px; left: -40px; width: 160px; height: 160px; background: rgba(56, 189, 248, 0.1); border-radius: 50%; filter: blur(25px); z-index: 0;"></div>
 
-  ![Profile Banner](https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true)
+  <!-- Profile Banner -->
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="Profile Banner" width="100%" style="max-width: 700px; border-radius: 12px; z-index: 1;"/>
 
-  <h1 style="color: #38bdf8; font-size: 2.5rem; margin-bottom: 0.5rem; font-weight: 700; letter-spacing: -0.5px;">Ezadin Badiru</h1>
-  <h3 style="color: #94a3b8; font-weight: 400; margin-top: 0; font-size: 1.1rem;">Flutter Developer | UI/UX Specialist | Tech Innovator</h3>
+  <!-- Name and Title -->
+  <h1 style="color: #38bdf8; font-size: 2.5rem; margin-bottom: 0.5rem; font-weight: 700; letter-spacing: -0.5px; z-index: 1;">Ezadin Badiru</h1>
+  <h3 style="color: #94a3b8; font-weight: 400; margin-top: 0; font-size: 1.1rem; z-index: 1;">Flutter Developer | UI/UX Specialist | Tech Innovator</h3>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&height=70&lines=Flutter+Developer+%7C+UI%2FUX+Enthusiast;Tech+Innovator+%7C+Problem+Solver;" alt="Typing SVG" />
-  </p>
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&height=70&lines=Flutter+Developer+%7C+UI%2FUX+Enthusiast;Tech+Innovator+%7C+Problem+Solver;" alt="Typing SVG" />
 
-  <p style="max-width: 700px; margin: 1.5rem auto; line-height: 1.6; font-size: 1rem;">
+  <!-- Short Bio -->
+  <p style="max-width: 700px; margin: 1.5rem auto; line-height: 1.6; font-size: 1rem; z-index: 1;">
     Passionate about crafting elegant, high-performance mobile applications with Flutter. Striving to blend design with functionality for seamless user experiences.
   </p>
 
-  <!-- GitHub Snake -->
+  <!-- GitHub Snake Contribution Graph -->
   ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 </div>
 
-<!-- Activity Graph -->
+<!-- GitHub Activity Graph -->
 <div align="center" style="margin-top: 2rem;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezadin2&theme=nord&hide_border=true&bg_color=1e293b&color=f8fafc&line=38bdf8&point=f8fafc&area=true&area_color=38bdf8&hide_title=true&height=220" style="width: 100%; border-radius: 8px;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezadin2&theme=nord&hide_border=true&bg_color=1e293b&color=f8fafc&line=38bdf8&point=f8fafc&area=true&area_color=38bdf8&hide_title=true&height=220" alt="Activity Graph" width="100%" style="max-width: 100%; border-radius: 8px;" />
 </div>
 
 <!-- Tech Stack Section -->
@@ -74,11 +76,3 @@
 <img src="https://komarev.com/ghpvc/?username=ezadin2&label=Profile%20views&color=38bdf8&style=flat" alt="Profile views" />
 
 </div>
-
-<!-- Floating Animation CSS -->
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(20px); }
-}
-</style>
