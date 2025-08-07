@@ -1,4 +1,3 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🌒™, [8/7/2025 5:47 AM]
 <!-- Profile Header with Glowing Effects -->
 <div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); color: #f8fafc; padding: 2.5rem 1.5rem; font-family: 'Inter', sans-serif; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); position: relative; overflow: hidden;">
 
@@ -21,6 +20,13 @@
     Passionate about crafting elegant, high-performance mobile applications with Flutter. Striving to blend design with functionality for seamless user experiences.
   </p>
 
+  <!-- GitHub Stats -->
+  <div style="display: flex; justify-content: center; gap: 1rem; margin: 1.5rem 0; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&icon_color=38bdf8&text_color=f8fafc" alt="GitHub Stats" style="height: 180px; border-radius: 8px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc" alt="Top Languages" style="height: 180px; border-radius: 8px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezadin2&theme=nord&hide_border=true&background=1e293b&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=38bdf8&sideLabels=94a3b8" alt="GitHub Streak" style="height: 180px; border-radius: 8px;"/>
+  </div>
+
   <!-- GitHub Snake Contribution Graph -->
   ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
@@ -32,8 +38,68 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezadin2&theme=nord&hide_border=true&bg_color=1e293b&color=f8fafc&line=38bdf8&point=f8fafc&area=true&area_color=38bdf8&hide_title=true&height=220" alt="Activity Graph" width="100%" style="max-width: 100%; border-radius: 8px;" />
 </div>
 
-<!-- Tech Stack Section -->
+<!-- Featured Projects Section -->
 <div style="background: #1e293b; color: #f8fafc; padding: 1.5rem; margin-top: 2rem; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+## <span style="color: #38bdf8;">🚀 Featured Projects</span>
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-top: 1.5rem;">
+
+<!-- Project 1 -->
+<div style="background: #0f172a; padding: 1.2rem; border-radius: 8px; border-left: 4px solid #38bdf8;">
+  <h3 style="margin-top: 0; color: #38bdf8;">Flutter E-Commerce App</h3>
+  <p>A complete e-commerce solution with Firebase backend, payment integration, and admin panel.</p>
+  <div style="display: flex; gap: 0.5rem; margin-top: 0.8rem;">
+    <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+    <img src="https://img.shields.io/badge/-GetX-0175C2?style=flat-square&logo=dart&logoColor=white" alt="GetX">
+  </div>
+  <div style="margin-top: 0.8rem;">
+    <a href="#" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View Project →</a>
+  </div>
+</div>
+
+<!-- Project 2 -->
+<div style="background: #0f172a; padding: 1.2rem; border-radius: 8px; border-left: 4px solid #38bdf8;">
+  <h3 style="margin-top: 0; color: #38bdf8;">Portfolio Website</h3>
+  <p>Modern responsive portfolio built with React.js, showcasing my projects and skills.</p>
+  <div style="display: flex; gap: 0.5rem; margin-top: 0.8rem;">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
+    <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  </div>
+  <div style="margin-top: 0.8rem;">
+    <a href="https://my-portifolio-3ckvuho4y-ezadin-badrus-projects.vercel.app/" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View Live →</a>
+  </div>
+</div>
+
+<!-- Project 3 -->
+<div style="background: #0f172a; padding: 1.2rem; border-radius: 8px; border-left: 4px solid #38bdf8;">
+  <h3 style="margin-top: 0; color: #38bdf8;">Health Fitness App</h3>
+  <p>Mobile application for fitness tracking with workout plans and nutrition guidance.</p>
+  <div style="display: flex; gap: 0.5rem; margin-top: 0.8rem;">
+    <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+    <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+    <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+  </div>
+  <div style="margin-top: 0.8rem;">
+    <a href="#" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View Code →</a>
+  </div>
+</div>
+
+</div>
+
+<div align="center" style="margin-top: 1.5rem;">
+  <a href="https://github.com/ezadin2?tab=repositories" style="color: #38bdf8; text-decoration: none; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;">
+    View All Projects
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+  </a>
+</div>
+
+</div>
+
+<!-- Tech Stack Section -->
+<div style="background: #1e293b; color: #f8fafc; padding: 1.5rem; margin-top: 1.5rem; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 ## <span style="color: #38bdf8;">🛠 Tech Stack</span>
 
@@ -49,11 +115,23 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </div>
 </div>
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🌒™, [8/7/2025 5:47 AM]
+<!-- GitHub Metrics -->
+<div style="background: #1e293b; color: #f8fafc; padding: 1.5rem; margin-top: 1.5rem; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+## <span style="color: #38bdf8;">📊 GitHub Metrics</span>
+
+<div align="center" style="margin-top: 1rem;">
+  <img src="https://metrics.lecoq.io/ezadin2?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Africa%2FCairo" alt="GitHub Metrics" width="100%" style="max-width: 100%; border-radius: 8px;"/>
+</div>
+
+</div>
+
 <!-- Connect Section -->
 <div style="background: #1e293b; color: #f8fafc; padding: 1.5rem; margin-top: 1.5rem; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
@@ -66,6 +144,7 @@
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezadinbadru55@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ezadin2)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
 
 </div>
 </div>
