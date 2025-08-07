@@ -24,7 +24,6 @@
   <div style="display: flex; justify-content: center; gap: 1rem; margin: 1.5rem 0; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&icon_color=38bdf8&text_color=f8fafc" alt="GitHub Stats" style="height: 180px; border-radius: 8px;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc" alt="Top Languages" style="height: 180px; border-radius: 8px;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezadin2&theme=nord&hide_border=true&background=1e293b&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=38bdf8&sideLabels=94a3b8" alt="GitHub Streak" style="height: 180px; border-radius: 8px;"/>
   </div>
 
   <!-- GitHub Snake Contribution Graph -->
