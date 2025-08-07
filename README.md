@@ -4,7 +4,11 @@
 
   <!-- Glowing Circles (Static but visually like animated) -->
   <div style="position: absolute; top: -60px; right: -60px; width: 200px; height: 200px; background: rgba(56, 189, 248, 0.12); border-radius: 50%; filter: blur(30px); z-index: 0;"></div>
-  <div style="position: absolute; bottom: -40px; left: -40px; width: 160px; height: 160px; background: rgba(56, 189, 248, 0.1); border-radius: 50%; filter: blur(25px); z-index: 0;"></div>
+  <div style="position: absolute; bottom: -40px; left: -40px; width: 160px; height: 160px; background: rgba(56, 189, 248, 0.1); border-radius: 50%; filter: blur(25px); z-index: 0;">
+      ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  <!-- Typing Animation -->
+  </div>
 
   <!-- Profile Banner -->
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="Profile Banner" width="50%" style="max-width: 700px; border-radius: 12px; z-index: 1;"/>
@@ -22,9 +26,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc" alt="Top Languages" style="height: 180px; border-radius: 8px;"/>
   </div>
 
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  <!-- Typing Animation -->
+
 
 </div>
 
