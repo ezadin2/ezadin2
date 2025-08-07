@@ -11,25 +11,25 @@
     <!-- Profile Banner -->
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="Profile Banner" width="50%" style="max-width: 700px; border-radius: 12px; border: 2px solid rgba(56, 189, 248, 0.3); box-shadow: 0 4px 20px rgba(56, 189, 248, 0.15);"/>
 
-    <!-- Name and Title -->
-    <h1 style="color: #38bdf8; font-size: 2.5rem; margin: 1rem 0 0.5rem; font-weight: 700; letter-spacing: -0.5px; text-shadow: 0 2px 4px rgba(56, 189, 248, 0.2);">Ezadin Badiru</h1>
-    <h3 style="color: #94a3b8; font-weight: 400; margin: 0; font-size: 1.1rem;">Flutter Developer | UI/UX Specialist | Tech Innovator</h3>
+  <!-- Name and Title -->
+  <h1 style="color: #38bdf8; font-size: 2.5rem; margin: 1rem 0 0.5rem; font-weight: 700; letter-spacing: -0.5px; text-shadow: 0 2px 4px rgba(56, 189, 248, 0.2);">Ezadin Badiru</h1>
+  <h3 style="color: #94a3b8; font-weight: 400; margin: 0; font-size: 1.1rem;">Flutter Developer | UI/UX Specialist | Tech Innovator</h3>
     
     <!-- Typing Animation -->
-    <div style="margin: 1.5rem 0;">
+  <div style="margin: 1.5rem 0;">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&height=70&lines=Flutter+Developer+%7C+UI%2FUX+Enthusiast;Tech+Innovator+%7C+Problem+Solver;Clean+Code+Advocate+%7C+Performance+Optimizer;" alt="Typing SVG" />
     </div>
 
     <!-- GitHub Stats -->
-    <div style="display: flex; justify-content: center; gap: 1.5rem; margin: 2rem 0; flex-wrap: wrap;">
+  <div style="display: flex; justify-content: center; gap: 1.5rem; margin: 2rem 0; flex-wrap: wrap;">
       <img src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&icon_color=38bdf8&text_color=f8fafc&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 180px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc&langs_count=8" alt="Top Languages" style="height: 180px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezadin2&theme=nord&hide_border=true&background=1e293b&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=f8fafc&sideNums=94a3b8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" style="height: 180px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
     </div>
 
     <!-- Snake Animation -->
-    ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-    ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   </div>
 </div>
 
@@ -59,7 +59,7 @@
       </h3>
       <p style="color: #94a3b8; font-size: 0.95rem; line-height: 1.5; margin-bottom: 1.5rem;">A full-stack Flutter eCommerce solution with admin panel, customer app, Firebase backend, real-time updates, payment integration, and responsive UI design.</p>
       
-      <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem;">
+  <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem;">
         <span style="background: rgba(56, 189, 248, 0.1); color: #38bdf8; padding: 0.3rem 0.6rem; border-radius: 20px; font-size: 0.8rem; display: flex; align-items: center; gap: 0.3rem;">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
           Flutter
@@ -69,7 +69,7 @@
         <span style="background: rgba(59, 130, 246, 0.1); color: #3B82F6; padding: 0.3rem 0.6rem; border-radius: 20px; font-size: 0.8rem;">Stripe</span>
       </div>
 
-      <div style="display: flex; gap: 1rem;">
+   <div style="display: flex; gap: 1rem;">
         <a href="https://adminpanel-bx43q6fid-ezadin-badrus-projects.vercel.app/" style="background: rgba(56, 189, 248, 0.1); color: #38bdf8; padding: 0.5rem 1rem; border-radius: 6px; text-decoration: none; font-size: 0.9rem; display: flex; align-items: center; gap: 0.5rem; transition: all 0.2s ease;">
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
           Admin Panel
@@ -92,14 +92,14 @@
       </h3>
       <p style="color: #94a3b8; font-size: 0.95rem; line-height: 1.5; margin-bottom: 1.5rem;">Modern responsive portfolio built with React.js and Tailwind CSS, featuring animated sections, project showcases, and contact form with email integration.</p>
       
-      <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem;">
+  <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-bottom: 1.5rem;">
         <span style="background: rgba(97, 218, 251, 0.1); color: #61DAFB; padding: 0.3rem 0.6rem; border-radius: 20px; font-size: 0.8rem;">React</span>
         <span style="background: rgba(6, 182, 212, 0.1); color: #06B6D4; padding: 0.3rem 0.6rem; border-radius: 20px; font-size: 0.8rem;">Tailwind</span>
         <span style="background: rgba(100, 108, 255, 0.1); color: #646CFF; padding: 0.3rem 0.6rem; border-radius: 20px; font-size: 0.8rem;">Vite</span>
         <span style="background: rgba(236, 72, 153, 0.1); color: #EC4899; padding: 0.3rem 0.6rem; border-radius: 20px; font-size: 0.8rem;">Framer Motion</span>
       </div>
 
-      <a href="https://my-portifolio-3ckvuho4y-ezadin-badrus-projects.vercel.app/" style="background: linear-gradient(90deg, #7c3aed, #a855f7); color: #f8fafc; padding: 0.5rem 1rem; border-radius: 6px; text-decoration: none; font-size: 0.9rem; display: flex; align-items: center; gap: 0.5rem; width: fit-content; transition: all 0.2s ease;">
+   <a href="https://my-portifolio-3ckvuho4y-ezadin-badrus-projects.vercel.app/" style="background: linear-gradient(90deg, #7c3aed, #a855f7); color: #f8fafc; padding: 0.5rem 1rem; border-radius: 6px; text-decoration: none; font-size: 0.9rem; display: flex; align-items: center; gap: 0.5rem; width: fit-content; transition: all 0.2s ease;">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
         View Live Demo
       </a>
@@ -126,7 +126,7 @@
       <span style="position: absolute; bottom: -8px; left: 50%; transform: translateX(-50%); width: 60px; height: 3px; background: #38bdf8; border-radius: 3px;"></span>
     </h2>
 
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem; margin-top: 1.5rem;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem; margin-top: 1.5rem;">
       <!-- Programming Languages -->
       <div style="background: rgba(15, 23, 42, 0.7); padding: 1rem; border-radius: 10px; flex: 1; min-width: 200px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
         <h3 style="color: #38bdf8; margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem; display: flex; align-items: center; gap: 0.5rem;">
@@ -154,7 +154,7 @@
       </div>
 
       <!-- Frontend -->
-      <div style="background: rgba(15, 23, 42, 0.7); padding: 1rem; border-radius: 10px; flex: 1; min-width: 200px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <div style="background: rgba(15, 23, 42, 0.7); padding: 1rem; border-radius: 10px; flex: 1; min-width: 200px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
         <h3 style="color: #38bdf8; margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem; display: flex; align-items: center; gap: 0.5rem;">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>
           Frontend
@@ -180,7 +180,7 @@
       </div>
 
       <!-- Backend & Databases -->
-      <div style="background: rgba(15, 23, 42, 0.7); padding: 1rem; border-radius: 10px; flex: 1; min-width: 200px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <div style="background: rgba(15, 23, 42, 0.7); padding: 1rem; border-radius: 10px; flex: 1; min-width: 200px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
         <h3 style="color: #38bdf8; margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem; display: flex; align-items: center; gap: 0.5rem;">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12H19"></path><path d="M12 5L19 12L12 19"></path></svg>
           Backend & DB
@@ -206,7 +206,7 @@
       </div>
 
       <!-- Tools & Others -->
-      <div style="background: rgba(15, 23, 42, 0.7); padding: 1rem; border-radius: 10px; flex: 1; min-width: 200px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+   <div style="background: rgba(15, 23, 42, 0.7); padding: 1rem; border-radius: 10px; flex: 1; min-width: 200px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
         <h3 style="color: #38bdf8; margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem; display: flex; align-items: center; gap: 0.5rem;">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
           Tools & Others
@@ -244,11 +244,11 @@
       <span style="position: absolute; bottom: -8px; left: 50%; transform: translateX(-50%); width: 60px; height: 3px; background: #38bdf8; border-radius: 3px;"></span>
     </h2>
 
-    <p style="color: #94a3b8; text-align: center; max-width: 600px; margin: 0 auto 2rem; line-height: 1.6;">
+  <p style="color: #94a3b8; text-align: center; max-width: 600px; margin: 0 auto 2rem; line-height: 1.6;">
       Feel free to reach out for collaborations, job opportunities, or just to say hi! I'm always open to interesting projects and discussions.
     </p>
 
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-top: 1.5rem;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; margin-top: 1.5rem;">
       <a href="https://www.linkedin.com/in/ezadin-badiru-98b9862a6" style="background: rgba(10, 102, 194, 0.1); color: #0A66C2; padding: 0.8rem 1.5rem; border-radius: 8px; text-decoration: none; font-size: 0.95rem; display: flex; align-items: center; gap: 0.8rem; border: 1px solid rgba(10, 102, 194, 0.2); transition: all 0.3s ease;">
         <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
         LinkedIn
