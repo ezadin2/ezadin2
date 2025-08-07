@@ -57,6 +57,17 @@
   <div style="margin-top: 0.8rem;">
     <a href="#" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View Project →</a>
   </div>
+  <div style="background: #0f172a; padding: 1.2rem; border-radius: 8px; border-left: 4px solid #38bdf8;">
+  <p>Mobile application for fitness tracking with workout plans and nutrition guidance.</p>
+  <div style="display: flex; gap: 0.5rem; margin-top: 0.8rem;">
+    <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+    <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
+    <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+  </div>
+  <div style="margin-top: 0.8rem;">
+    <a href="#" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View Code →</a>
+  </div>
+</div>
 </div>
 
 <!-- Project 2 -->
@@ -74,18 +85,7 @@
 </div>
 
 <!-- Project 3 -->
-<div style="background: #0f172a; padding: 1.2rem; border-radius: 8px; border-left: 4px solid #38bdf8;">
-  <h3 style="margin-top: 0; color: #38bdf8;">Health Fitness App</h3>
-  <p>Mobile application for fitness tracking with workout plans and nutrition guidance.</p>
-  <div style="display: flex; gap: 0.5rem; margin-top: 0.8rem;">
-    <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-    <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-    <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
-  </div>
-  <div style="margin-top: 0.8rem;">
-    <a href="#" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View Code →</a>
-  </div>
-</div>
+
 
 </div>
 
