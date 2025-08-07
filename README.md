@@ -20,7 +20,6 @@
 <div style="display: flex; justify-content: center; gap: 1.5rem; margin: 2rem 0; flex-wrap: wrap;">
       <img src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&icon_color=38bdf8&text_color=f8fafc&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 180px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc&langs_count=8" alt="Top Languages" style="height: 180px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezadin2&theme=nord&hide_border=true&background=1e293b&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=f8fafc&sideNums=94a3b8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" style="height: 180px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
     </div>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
