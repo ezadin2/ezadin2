@@ -1,7 +1,6 @@
-
 <div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); color: #f8fafc; padding: 2.5rem 1.5rem; font-family: 'Inter', sans-serif; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); position: relative; overflow: hidden;">
 
-  <!-- Glowing Circles (Static but visually like animated) -->
+  <!-- Glowing Circles -->
   <div style="position: absolute; top: -60px; right: -60px; width: 200px; height: 200px; background: rgba(56, 189, 248, 0.12); border-radius: 50%; filter: blur(30px); z-index: 0;"></div>
   <div style="position: absolute; bottom: -40px; left: -40px; width: 160px; height: 160px; background: rgba(56, 189, 248, 0.1); border-radius: 50%; filter: blur(25px); z-index: 0;"></div>
 
@@ -18,14 +17,12 @@
   <!-- GitHub Snake Contribution Graph -->
   ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
   <!-- GitHub Stats -->
   <div style="display: flex; justify-content: center; gap: 1rem; margin: 1.5rem 0; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&icon_color=38bdf8&text_color=f8fafc" alt="GitHub Stats" style="height: 180px; border-radius: 8px;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc" alt="Top Languages" style="height: 180px; border-radius: 8px;"/>
   </div>
-
-
-
 </div>
 
 <!-- GitHub Activity Graph -->
@@ -43,8 +40,7 @@
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1.5rem; margin: 0 auto; max-width: 1200px;">
 
     <!-- Project 1 -->
-    <div style="background: #0f172a; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #38bdf8; 
-                width: 100%; max-width: 400px; text-align: left; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <div style="background: #0f172a; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #38bdf8; width: 100%; max-width: 400px; text-align: left; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <h3 style="margin-top: 0; color: #38bdf8; font-size: 1.3rem;">Flutter E-Commerce App</h3>
       <p style="color: #94a3b8; line-height: 1.5;">A DinaMart complete e-commerce solution with Firebase backend, payment integration, and admin panel.</p>
       
@@ -55,9 +51,7 @@
       </div>
       
       <div style="margin-top: 1rem;">
-        <a href="https://adminpanel-bx43q6fid-ezadin-badrus-projects.vercel.app/" 
-           style="color: #38bdf8; text-decoration: none; font-weight: 500; display: inline-flex; 
-                  align-items: center; gap: 0.3rem;">
+        <a href="https://adminpanel-bx43q6fid-ezadin-badrus-projects.vercel.app/" style="color: #38bdf8; text-decoration: none; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;">
           View Admin Panel →
         </a>
       </div>
@@ -71,9 +65,7 @@
           <img src="https://img.shields.io/badge/-GetX-0175C2?style=flat-square&logo=dart&logoColor=white" alt="GetX">
         </div>
         <div style="margin-top: 0.8rem;">
-          <a href="https://aregenkibet.web.app/" 
-             style="color: #38bdf8; text-decoration: none; font-weight: 500; display: inline-flex; 
-                    align-items: center; gap: 0.3rem;">
+          <a href="https://aregenkibet.web.app/" style="color: #38bdf8; text-decoration: none; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;">
             View Customer App →
           </a>
         </div>
@@ -81,8 +73,7 @@
     </div>
 
     <!-- Project 2 -->
-    <div style="background: #0f172a; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #38bdf8; 
-                width: 100%; max-width: 400px; text-align: left; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    <div style="background: #0f172a; padding: 1.5rem; border-radius: 8px; border-left: 4px solid #38bdf8; width: 100%; max-width: 400px; text-align: left; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
       <h3 style="margin-top: 0; color: #38bdf8; font-size: 1.3rem;">Portfolio Website</h3>
       <p style="color: #94a3b8; line-height: 1.5;">Modern responsive portfolio built with React.js, showcasing my projects and skills.</p>
       
@@ -93,79 +84,58 @@
       </div>
       
       <div style="margin-top: 1rem;">
-        <a href="https://my-portifolio-3ckvuho4y-ezadin-badrus-projects.vercel.app/" 
-           style="color: #38bdf8; text-decoration: none; font-weight: 500; display: inline-flex; 
-                  align-items: center; gap: 0.3rem;">
+        <a href="https://my-portifolio-3ckvuho4y-ezadin-badrus-projects.vercel.app/" style="color: #38bdf8; text-decoration: none; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;">
           View Live Demo →
         </a>
       </div>
     </div>
-
   </div>
 
   <!-- View All Button -->
   <div style="margin-top: 2rem;">
-    <a href="https://github.com/ezadin2?tab=repositories" 
-       style="background: rgba(56, 189, 248, 0.1); color: #38bdf8; text-decoration: none; 
-              font-weight: 500; padding: 0.6rem 1.2rem; border-radius: 6px; display: inline-flex; 
-              align-items: center; gap: 0.3rem; border: 1px solid rgba(56, 189, 248, 0.3);">
+    <a href="https://github.com/ezadin2?tab=repositories" style="background: rgba(56, 189, 248, 0.1); color: #38bdf8; text-decoration: none; font-weight: 500; padding: 0.6rem 1.2rem; border-radius: 6px; display: inline-flex; align-items: center; gap: 0.3rem; border: 1px solid rgba(56, 189, 248, 0.3);">
       View All Projects
       <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <path d="M5 12h14M12 5l7 7-7 7"/>
       </svg>
     </a>
   </div>
-
 </div>
 
 <!-- Tech Stack Section -->
 <div style="background: #1e293b; color: #f8fafc; padding: 1.5rem; margin-top: 1.5rem; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-
-## <span style="color: #38bdf8;">🛠 Tech Stack</span>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.6rem; margin-top: 1rem;">
-
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
+  <h2 style="color: #38bdf8;">🛠 Tech Stack</h2>
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.6rem; margin-top: 1rem;">
+    ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+    ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+    ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+    ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+    ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+    ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+    ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+    ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+    ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+    ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+    ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+    ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+  </div>
 </div>
-</div>
-
-<!-- GitHub Metrics -->
-<div style="background: #1e293b; color: #f8fafc; padding: 1.5rem; margin-top: 1.5rem; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 <!-- Connect Section -->
 <div style="background: #1e293b; color: #f8fafc; padding: 1.5rem; margin-top: 1.5rem; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-
-## <span style="color: #38bdf8;">🌐 Connect</span>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem; margin-top: 1rem;">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezadin-badiru-98b9862a6)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portifolio-3ckvuho4y-ezadin-badrus-projects.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezadinbadru55@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ezadin2)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
-
-</div>
+  <h2 style="color: #38bdf8;">🌐 Connect</h2>
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem; margin-top: 1rem;">
+    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezadin-badiru-98b9862a6)
+    [![Portfolio](https://img.shields.io/badge/-Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://my-portifolio-3ckvuho4y-ezadin-badrus-projects.vercel.app/)
+    [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ezadinbadru55@gmail.com)
+    [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ezadin2)
+    [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+    [![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourhandle)
+  </div>
 </div>
 
 <!-- Footer -->
 <div align="center" style="margin-top: 2rem; color: #94a3b8; font-size: 0.9rem;">
-
-<p><em>"Innovation distinguishes between a leader and a follower." – Steve Jobs</em></p>
-
-<img src="https://komarev.com/ghpvc/?username=ezadin2&label=Profile%20views&color=38bdf8&style=flat" alt="Profile views" />
-
+  <p><em>"Innovation distinguishes between a leader and a follower." – Steve Jobs</em></p>
+  <img src="https://komarev.com/ghpvc/?username=ezadin2&label=Profile%20views&color=38bdf8&style=flat" alt="Profile views" />
 </div>
