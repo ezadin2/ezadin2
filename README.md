@@ -6,7 +6,7 @@
   <div style="position: absolute; bottom: -40px; left: -40px; width: 160px; height: 160px; background: rgba(56, 189, 248, 0.1); border-radius: 50%; filter: blur(25px); z-index: 0;"></div>
 
   <!-- Profile Banner -->
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="Profile Banner" width="100%" style="max-width: 700px; border-radius: 12px; z-index: 1;"/>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="Profile Banner" width="50%" style="max-width: 700px; border-radius: 12px; z-index: 1;"/>
 
   <!-- Name and Title -->
   <h1 style="color: #38bdf8; font-size: 2.5rem; margin-bottom: 0.5rem; font-weight: 700; letter-spacing: -0.5px; z-index: 1;">Ezadin Badiru</h1>
