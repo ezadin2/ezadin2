@@ -1,34 +1,29 @@
-
 <!-- Profile Header with Glowing Effects -->
 <div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); color: #f8fafc; padding: 2.5rem 1.5rem; font-family: 'Inter', sans-serif; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); position: relative; overflow: hidden;">
 
-  <!-- Glowing Circles (Static but visually like animated) -->
+  <!-- Glowing Circles -->
   <div style="position: absolute; top: -60px; right: -60px; width: 200px; height: 200px; background: rgba(56, 189, 248, 0.12); border-radius: 50%; filter: blur(30px); z-index: 0;"></div>
-  <div style="position: absolute; bottom: -40px; left: -40px; width: 160px; height: 160px; background: rgba(56, 189, 248, 0.1); border-radius: 50%; filter: blur(25px); z-index: 0;">
-
-  </div>
+  <div style="position: absolute; bottom: -40px; left: -40px; width: 160px; height: 160px; background: rgba(56, 189, 248, 0.1); border-radius: 50%; filter: blur(25px); z-index: 0;"></div>
 
   <!-- Profile Banner -->
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="Profile Banner" width="50%" style="max-width: 700px; border-radius: 12px; z-index: 1;"/>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="Profile Banner" width="50%" style="max-width: 700px; border-radius: 12px; z-index: 1;" />
 
   <!-- Name and Title -->
   <h1 style="color: #38bdf8; font-size: 2.5rem; margin-bottom: 0.5rem; font-weight: 700; letter-spacing: -0.5px; z-index: 1;">Ezadin Badiru</h1>
   <h3 style="color: #94a3b8; font-weight: 400; margin-top: 0; font-size: 1.1rem; z-index: 1;">Flutter Developer | UI/UX Specialist | Tech Innovator</h3>
-  <!-- GitHub Snake Contribution Graph -->
 
+  <!-- Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&height=70&lines=Flutter+Developer+%7C+UI%2FUX+Enthusiast;Tech+Innovator+%7C+Problem+Solver;" alt="Typing SVG" />
 
   <!-- GitHub Stats -->
   <div style="display: flex; justify-content: center; gap: 1rem; margin: 1.5rem 0; flex-wrap: wrap;">
-
-  <!-- Typing Animation -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&icon_color=38bdf8&text_color=f8fafc" alt="GitHub Stats" style="height: 180px; border-radius: 8px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc" alt="Top Languages" style="height: 180px; border-radius: 8px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&icon_color=38bdf8&text_color=f8fafc" alt="GitHub Stats" style="height: 180px; border-radius: 8px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc" alt="Top Languages" style="height: 180px; border-radius: 8px;" />
   </div>
 
+  <!-- Snake Graphs -->
   ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
 </div>
 
 <!-- GitHub Activity Graph -->
@@ -38,7 +33,7 @@
 
 <!-- 🚀 Featured Projects Section -->
 <div align="center">
-
+  
 ## 🚀 <span style="color:#38bdf8;">Featured Projects</span>
 
 </div>
@@ -46,34 +41,30 @@
 <!-- Projects Grid -->
 <div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-top: 1.5rem;">
 
-<!-- Project 1: DinaMart -->
+<!-- DinaMart -->
 <div style="background:#0f172a; border-left: 4px solid #38bdf8; padding: 1rem; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
-  <h3 style="color:#38bdf8; margin-top: 0;">Flutter DinaMart Complete E-commerce System</h3>
+  <h3 style="color:#38bdf8;">Flutter DinaMart Complete E-commerce System</h3>
   <p style="color:#94a3b8; font-size: 0.9rem;">A full-stack Flutter eCommerce app with admin panel, customer app, Firebase backend, real-time updates, and responsive design.</p>
-  
   <div style="margin-top: 0.8rem;">
     <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
     <img src="https://img.shields.io/badge/-GetX-0175C2?style=flat-square&logo=dart&logoColor=white" />
   </div>
-
   <div style="margin-top: 1rem;">
     <a href="https://adminpanel-bx43q6fid-ezadin-badrus-projects.vercel.app/" style="color: #38bdf8; font-weight: 500; text-decoration: none;">🔗 View Admin Panel Page →</a><br/>
     <a href="https://aregenkibet.web.app/" style="color: #38bdf8; font-weight: 500; text-decoration: none;">🔗 View Customer Page →</a>
   </div>
 </div>
 
-<!-- Project 2: Portfolio -->
+<!-- Portfolio -->
 <div style="background:#0f172a; border-left: 4px solid #38bdf8; padding: 1rem; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
-  <h3 style="color:#38bdf8; margin-top: 0;">Portfolio Website</h3>
+  <h3 style="color:#38bdf8;">Portfolio Website</h3>
   <p style="color:#94a3b8; font-size: 0.9rem;">Modern responsive portfolio built with React.js and Tailwind, showcasing my tech stack, experience, and projects.</p>
-
   <div style="margin-top: 0.8rem;">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
     <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
     <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   </div>
-
   <div style="margin-top: 1rem;">
     <a href="https://my-portifolio-3ckvuho4y-ezadin-badrus-projects.vercel.app/" style="color: #38bdf8; font-weight: 500; text-decoration: none;">🔗 View Live →</a>
   </div>
@@ -89,15 +80,13 @@
   </a>
 </div>
 
-
-<!-- Tech Stack Section -->
+<!-- 🛠 Tech Stack -->
 <div style="background: #1e293b; color: #f8fafc; padding: 1.5rem; margin-top: 1.5rem; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 ## <span style="color: #38bdf8;">🛠 Tech Stack</span>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.6rem; margin-top: 1rem;">
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
+  
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -114,10 +103,7 @@
 </div>
 </div>
 
-<!-- GitHub Metrics -->
-<div style="background: #1e293b; color: #f8fafc; padding: 1.5rem; margin-top: 1.5rem; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-
-<!-- Connect Section -->
+<!-- 🌐 Connect -->
 <div style="background: #1e293b; color: #f8fafc; padding: 1.5rem; margin-top: 1.5rem; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 ## <span style="color: #38bdf8;">🌐 Connect</span>
@@ -136,10 +122,6 @@
 
 <!-- Footer -->
 <div align="center" style="margin-top: 2rem; color: #94a3b8; font-size: 0.9rem;">
-
 <p><em>"Innovation distinguishes between a leader and a follower." – Steve Jobs</em></p>
-
 <img src="https://komarev.com/ghpvc/?username=ezadin2&label=Profile%20views&color=38bdf8&style=flat" alt="Profile views" />
-
-</div>ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 </div>
