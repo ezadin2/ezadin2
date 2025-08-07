@@ -1,5 +1,4 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🌒™, [8/7/2025 6:34 AM]
-<!-- Profile Header with Glowing Effects -->
+
 <div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); color: #f8fafc; padding: 2.5rem 1.5rem; font-family: 'Inter', sans-serif; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); position: relative; overflow: hidden;">
 
   <!-- Glowing Circles (Static but visually like animated) -->
