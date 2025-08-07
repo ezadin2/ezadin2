@@ -85,15 +85,6 @@
 </div>
 
 
-<!-- View All Projects Button -->
-<div align="center" style="margin-top: 2rem;">
-  <a href="https://github.com/ezadin2?tab=repositories" style="color: #38bdf8; font-size: 1rem; font-weight: 600; text-decoration: none; display: inline-flex; align-items: center; gap: 0.4rem;">
-    View All Projects
-    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
-  </a>
-</div>
-
-
 <!-- Tech Stack Section -->
 <div style="background: #1e293b; color: #f8fafc; padding: 1.5rem; margin-top: 1.5rem; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
