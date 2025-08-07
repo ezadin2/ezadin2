@@ -47,20 +47,33 @@
 
 <!-- Project 1 -->
 <div style="background: #0f172a; padding: 1.2rem; border-radius: 8px; border-left: 4px solid #38bdf8;">
-  <h3 style="margin-top: 0; color: #38bdf8;">Flutter E-Commerce App</h3>
-  <p>A complete Dinamrt e-commerce solution with Firebase backend, payment integration, and admin panel.</p>
+  <div style="width: 100%; height: 180px; overflow: hidden; border-radius: 6px; margin-bottom: 1rem;">
+    <img src="https://raw.githubusercontent.com/ezadin2/ezadin2/main/assets/ecommerce-app.png" alt="Dinamrt E-Commerce App" style="width: 100%; height: 100%; object-fit: cover;"/>
+  </div>
+  <h3 style="margin-top: 0; color: #38bdf8;">Dinamrt E-Commerce App</h3>
+  <p>A complete e-commerce solution with Firebase backend, payment integration, and admin panel.</p>
   <div style="display: flex; gap: 0.5rem; margin-top: 0.8rem;">
     <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
     <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
     <img src="https://img.shields.io/badge/-GetX-0175C2?style=flat-square&logo=dart&logoColor=white" alt="GetX">
   </div>
-  <div style="margin-top: 0.8rem;">
-    <a href="https://adminpanel-bx43q6fid-ezadin-badrus-projects.vercel.app/" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View Project →</a>
+  <div style="margin-top: 0.8rem; display: flex; gap: 1rem;">
+    <a href="https://adminpanel-bx43q6fid-ezadin-badrus-projects.vercel.app/" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem; display: flex; align-items: center; gap: 0.3rem;">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+      Live Demo
+    </a>
+    <a href="https://github.com/ezadin2/dinamrt-ecommerce" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem; display: flex; align-items: center; gap: 0.3rem;">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+      Source Code
+    </a>
   </div>
 </div>
 
 <!-- Project 2 -->
 <div style="background: #0f172a; padding: 1.2rem; border-radius: 8px; border-left: 4px solid #38bdf8;">
+  <div style="width: 100%; height: 180px; overflow: hidden; border-radius: 6px; margin-bottom: 1rem;">
+    <img src="https://raw.githubusercontent.com/ezadin2/ezadin2/main/assets/portfolio-screenshot.png" alt="Portfolio Website" style="width: 100%; height: 100%; object-fit: cover;"/>
+  </div>
   <h3 style="margin-top: 0; color: #38bdf8;">Portfolio Website</h3>
   <p>Modern responsive portfolio built with React.js, showcasing my projects and skills.</p>
   <div style="display: flex; gap: 0.5rem; margin-top: 0.8rem;">
@@ -68,22 +81,39 @@
     <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
     <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
   </div>
-  <div style="margin-top: 0.8rem;">
-    <a href="https://my-portifolio-3ckvuho4y-ezadin-badrus-projects.vercel.app/" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View Live →</a>
+  <div style="margin-top: 0.8rem; display: flex; gap: 1rem;">
+    <a href="https://my-portifolio-3ckvuho4y-ezadin-badrus-projects.vercel.app/" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem; display: flex; align-items: center; gap: 0.3rem;">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+      Live Demo
+    </a>
+    <a href="https://github.com/ezadin2/portfolio" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem; display: flex; align-items: center; gap: 0.3rem;">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+      Source Code
+    </a>
   </div>
 </div>
 
 <!-- Project 3 -->
 <div style="background: #0f172a; padding: 1.2rem; border-radius: 8px; border-left: 4px solid #38bdf8;">
-  <h3 style="margin-top: 0; color: #38bdf8;">Health Fitness App</h3>
-  <p>Mobile application for Customer Dinamrt with Admin Panel</p>
+  <div style="width: 100%; height: 180px; overflow: hidden; border-radius: 6px; margin-bottom: 1rem;">
+    <img src="https://raw.githubusercontent.com/ezadin2/ezadin2/main/assets/fitness-app.png" alt="Health Fitness App" style="width: 100%; height: 100%; object-fit: cover;"/>
+  </div>
+  <h3 style="margin-top: 0; color: #38bdf8;">Dinamrt Customer App</h3>
+  <p>Mobile application for Dinamrt customers with Admin Panel for business management.</p>
   <div style="display: flex; gap: 0.5rem; margin-top: 0.8rem;">
     <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
     <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-    <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
   </div>
-  <div style="margin-top: 0.8rem;">
-    <a href="https://aregenkibet.web.app/" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View Code →</a>
+  <div style="margin-top: 0.8rem; display: flex; gap: 1rem;">
+    <a href="https://aregenkibet.web.app/" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem; display: flex; align-items: center; gap: 0.3rem;">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>
+      Live Demo
+    </a>
+    <a href="https://github.com/ezadin2/dinamrt-customer-app" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem; display: flex; align-items: center; gap: 0.3rem;">
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+      Source Code
+    </a>
   </div>
 </div>
 
