@@ -55,11 +55,6 @@
     <a href="https://adminpanel-bx43q6fid-ezadin-badrus-projects.vercel.app/" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View admin panel page →</a>
   </div>
   <div style="background: #0f172a; padding: 1.2rem; border-radius: 8px; border-left: 4px solid #38bdf8;">
-  <div style="display: flex; gap: 0.5rem; margin-top: 0.8rem;">
-     <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
-    <img src="https://img.shields.io/badge/-GetX-0175C2?style=flat-square&logo=dart&logoColor=white" alt="GetX">
-  </div>
   <div style="margin-top: 0.8rem;">
     <a href="https://aregenkibet.web.app/" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View Customer Page →</a>
   </div>
