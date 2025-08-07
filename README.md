@@ -33,50 +33,57 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezadin2&theme=nord&hide_border=true&bg_color=1e293b&color=f8fafc&line=38bdf8&point=f8fafc&area=true&area_color=38bdf8&hide_title=true&height=220" alt="Activity Graph" width="100%" style="max-width: 100%; border-radius: 8px;" />
 </div>
 
-<!-- 🚀 Featured Projects Section -->
-<div align="center">
+<!-- Featured Projects Section -->
+<div style="background: #1e293b; color: #f8fafc; padding: 1.5rem; margin-top: 2rem; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-## 🚀 <span style="color:#38bdf8;">Featured Projects</span>
+## <span style="color: #38bdf8;">🚀 Featured Projects</span>
 
-</div>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-top: 1.5rem;">
 
-<!-- Projects Grid -->
-<div align="center" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-top: 1.5rem;">
-
-<!-- Project 1: DinaMart -->
-<div style="background:#0f172a; border-left: 4px solid #38bdf8; padding: 1rem; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
-  <h3 style="color:#38bdf8; margin-top: 0;">Flutter DinaMart Complete E-commerce System</h3>
-  <p style="color:#94a3b8; font-size: 0.9rem;">A full-stack Flutter eCommerce app with admin panel, customer app, Firebase backend, real-time updates, and responsive design.</p>
-  
+<!-- Project 1 -->
+<div style="background: #0f172a; padding: 1.2rem; border-radius: 8px; border-left: 4px solid #38bdf8;">
+  <h3 style="margin-top: 0; color: #38bdf8;">Flutter DinaMart Complete E-commerce System</h3>
+  <div style="display: flex; gap: 0.5rem; margin-top: 0.8rem;">
+    <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+    <img src="https://img.shields.io/badge/-GetX-0175C2?style=flat-square&logo=dart&logoColor=white" alt="GetX">
+  </div>
   <div style="margin-top: 0.8rem;">
-    <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-    <img src="https://img.shields.io/badge/-GetX-0175C2?style=flat-square&logo=dart&logoColor=white" />
+    <a href="https://adminpanel-bx43q6fid-ezadin-badrus-projects.vercel.app/" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View admin panel page →</a>
   </div>
-
-  <div style="margin-top: 1rem;">
-    <a href="https://adminpanel-bx43q6fid-ezadin-badrus-projects.vercel.app/" style="color: #38bdf8; font-weight: 500; text-decoration: none;">🔗 View Admin Panel Page →</a><br/>
-    <a href="https://aregenkibet.web.app/" style="color: #38bdf8; font-weight: 500; text-decoration: none;">🔗 View Customer Page →</a>
-  </div>
-</div>
-
-<!-- Project 2: Portfolio -->
-<div style="background:#0f172a; border-left: 4px solid #38bdf8; padding: 1rem; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.2);">
-  <h3 style="color:#38bdf8; margin-top: 0;">Portfolio Website</h3>
-  <p style="color:#94a3b8; font-size: 0.9rem;">Modern responsive portfolio built with React.js and Tailwind, showcasing my tech stack, experience, and projects.</p>
-
+  <div style="background: #0f172a; padding: 1.2rem; border-radius: 8px; border-left: 4px solid #38bdf8;">
   <div style="margin-top: 0.8rem;">
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+    <a href="https://aregenkibet.web.app/" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View Customer Page →</a>
   </div>
+</div>
+</div>
 
-  <div style="margin-top: 1rem;">
-    <a href="https://my-portifolio-3ckvuho4y-ezadin-badrus-projects.vercel.app/" style="color: #38bdf8; font-weight: 500; text-decoration: none;">🔗 View Live →</a>
+<!-- Project 2 -->
+<div style="background: #0f172a; padding: 1.2rem; border-radius: 8px; border-left: 4px solid #38bdf8;">
+  <h3 style="margin-top: 0; color: #38bdf8;">Portfolio Website</h3>
+  <p>Modern responsive portfolio built with React.js, showcasing my projects and skills.</p>
+  <div style="display: flex; gap: 0.5rem; margin-top: 0.8rem;">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
+    <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  </div>
+  <div style="margin-top: 0.8rem;">
+    <a href="https://my-portifolio-3ckvuho4y-ezadin-badrus-projects.vercel.app/" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View Live →</a>
   </div>
 </div>
 
+
 </div>
+
+<div align="center" style="margin-top: 1.5rem;">
+  <a href="https://github.com/ezadin2?tab=repositories" style="color: #38bdf8; text-decoration: none; font-weight: 500; display: inline-flex; align-items: center; gap: 0.3rem;">
+    View All Projects
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+  </a>
+</div>
+
+</div>
+
 
 <!-- View All Projects Button -->
 <div align="center" style="margin-top: 2rem;">
