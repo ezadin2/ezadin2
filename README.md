@@ -124,14 +124,6 @@
 <!-- GitHub Metrics -->
 <div style="background: #1e293b; color: #f8fafc; padding: 1.5rem; margin-top: 1.5rem; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-## <span style="color: #38bdf8;">📊 GitHub Metrics</span>
-
-<div align="center" style="margin-top: 1rem;">
-  <img src="https://metrics.lecoq.io/ezadin2?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Africa%2FCairo" alt="GitHub Metrics" width="100%" style="max-width: 100%; border-radius: 8px;"/>
-</div>
-
-</div>
-
 <!-- Connect Section -->
 <div style="background: #1e293b; color: #f8fafc; padding: 1.5rem; margin-top: 1.5rem; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
