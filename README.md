@@ -15,11 +15,6 @@
   <!-- Typing Animation -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&height=70&lines=Flutter+Developer+%7C+UI%2FUX+Enthusiast;Tech+Innovator+%7C+Problem+Solver;" alt="Typing SVG" />
 
-  <!-- Short Bio -->
-  <p style="max-width: 700px; margin: 1.5rem auto; line-height: 1.6; font-size: 1rem; z-index: 1;">
-    Passionate about crafting elegant, high-performance mobile applications with Flutter. Striving to blend design with functionality for seamless user experiences.
-  </p>
-
   <!-- GitHub Stats -->
   <div style="display: flex; justify-content: center; gap: 1rem; margin: 1.5rem 0; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&icon_color=38bdf8&text_color=f8fafc" alt="GitHub Stats" style="height: 180px; border-radius: 8px;"/>
