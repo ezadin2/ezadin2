@@ -15,30 +15,28 @@
   <h1 style="color: #38bdf8; font-size: 2.5rem; margin: 1rem 0 0.5rem; font-weight: 700; letter-spacing: -0.5px; text-shadow: 0 2px 4px rgba(56, 189, 248, 0.2);">Ezadin Badiru</h1>
   <h3 style="color: #94a3b8; font-weight: 400; margin: 0; font-size: 1.1rem;">Flutter Developer | UI/UX Specialist | Tech Innovator</h3>
     
-    <!-- Typing Animation -->
+   
   <div style="margin: 1.5rem 0;">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&height=70&lines=Flutter+Developer+%7C+UI%2FUX+Enthusiast;Tech+Innovator+%7C+Problem+Solver;Clean+Code+Advocate+%7C+Performance+Optimizer;" alt="Typing SVG" />
     </div>
 
-    <!-- GitHub Stats -->
   <div style="display: flex; justify-content: center; gap: 1.5rem; margin: 2rem 0; flex-wrap: wrap;">
       <img src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&icon_color=38bdf8&text_color=f8fafc&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 180px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc&langs_count=8" alt="Top Languages" style="height: 180px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezadin2&theme=nord&hide_border=true&background=1e293b&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=f8fafc&sideNums=94a3b8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" style="height: 180px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
     </div>
 
-    <!-- Snake Animation -->
   ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
   ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
   </div>
 </div>
 
-<!-- GitHub Activity Graph -->
+
 <div align="center" style="margin: 2.5rem 0;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezadin2&theme=nord&hide_border=true&bg_color=1e293b&color=f8fafc&line=38bdf8&point=f8fafc&area=true&area_color=38bdf8&hide_title=true&height=300&custom_title=My+Contribution+Activity" alt="Activity Graph" width="100%" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
 </div>
 
-<!-- 🚀 Featured Projects Section -->
+
 <div align="center" style="margin-bottom: 2rem;">
   <h2 style="color: #38bdf8; font-size: 2rem; margin-bottom: 1.5rem; position: relative; display: inline-block;">
     🚀 Featured Projects
@@ -46,10 +44,9 @@
   </h2>
 </div>
 
-<!-- Projects Grid -->
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem; margin: 2rem 0;">
 
-  <!-- Project 1: DinaMart -->
+  
   <div style="background: linear-gradient(145deg, #0f172a, #1e293b); padding: 1.5rem; border-radius: 12px; box-shadow: 0 6px 16px rgba(0,0,0,0.2); border-left: 4px solid #38bdf8; transition: transform 0.3s ease; position: relative; overflow: hidden;">
     <div style="position: absolute; top: 0; right: 0; width: 100px; height: 100px; background: radial-gradient(circle, rgba(56, 189, 248, 0.1) 0%, transparent 70%); filter: blur(20px); z-index: 1;"></div>
     <div style="position: relative; z-index: 2;">
@@ -82,7 +79,6 @@
     </div>
   </div>
 
-  <!-- Project 2: Portfolio -->
   <div style="background: linear-gradient(145deg, #0f172a, #1e293b); padding: 1.5rem; border-radius: 12px; box-shadow: 0 6px 16px rgba(0,0,0,0.2); border-left: 4px solid #7c3aed; transition: transform 0.3s ease; position: relative; overflow: hidden;">
     <div style="position: absolute; top: 0; right: 0; width: 100px; height: 100px; background: radial-gradient(circle, rgba(124, 58, 237, 0.1) 0%, transparent 70%); filter: blur(20px); z-index: 1;"></div>
     <div style="position: relative; z-index: 2;">
@@ -107,7 +103,6 @@
   </div>
 </div>
 
-<!-- View All Projects Button -->
 <div align="center" style="margin: 3rem 0;">
   <a href="https://github.com/ezadin2?tab=repositories" style="background: transparent; color: #38bdf8; padding: 0.7rem 1.5rem; border-radius: 8px; text-decoration: none; font-size: 1rem; font-weight: 500; display: inline-flex; align-items: center; gap: 0.5rem; border: 1px solid rgba(56, 189, 248, 0.3); transition: all 0.3s ease; position: relative; overflow: hidden;">
     <span style="position: relative; z-index: 2;">View All Projects</span>
@@ -116,7 +111,6 @@
   </a>
 </div>
 
-<!-- Tech Stack Section -->
 <div style="background: linear-gradient(145deg, #0f172a, #1e293b); color: #f8fafc; padding: 2rem; margin: 2.5rem 0; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15); position: relative; overflow: hidden;">
   <div style="position: absolute; top: -50px; right: -50px; width: 200px; height: 200px; background: radial-gradient(circle, rgba(56, 189, 248, 0.08) 0%, transparent 70%); filter: blur(30px); z-index: 0;"></div>
   
@@ -127,7 +121,6 @@
     </h2>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.8rem; margin-top: 1.5rem;">
-      <!-- Programming Languages -->
       <div style="background: rgba(15, 23, 42, 0.7); padding: 1rem; border-radius: 10px; flex: 1; min-width: 200px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
         <h3 style="color: #38bdf8; margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem; display: flex; align-items: center; gap: 0.5rem;">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
@@ -153,7 +146,6 @@
         </div>
       </div>
 
-      <!-- Frontend -->
   <div style="background: rgba(15, 23, 42, 0.7); padding: 1rem; border-radius: 10px; flex: 1; min-width: 200px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
         <h3 style="color: #38bdf8; margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem; display: flex; align-items: center; gap: 0.5rem;">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>
@@ -178,8 +170,6 @@
           </span>
         </div>
       </div>
-
-      <!-- Backend & Databases -->
   <div style="background: rgba(15, 23, 42, 0.7); padding: 1rem; border-radius: 10px; flex: 1; min-width: 200px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
         <h3 style="color: #38bdf8; margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem; display: flex; align-items: center; gap: 0.5rem;">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12H19"></path><path d="M12 5L19 12L12 19"></path></svg>
@@ -205,7 +195,6 @@
         </div>
       </div>
 
-      <!-- Tools & Others -->
    <div style="background: rgba(15, 23, 42, 0.7); padding: 1rem; border-radius: 10px; flex: 1; min-width: 200px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
         <h3 style="color: #38bdf8; margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem; display: flex; align-items: center; gap: 0.5rem;">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
@@ -234,7 +223,6 @@
   </div>
 </div>
 
-<!-- Connect Section -->
 <div style="background: linear-gradient(145deg, #0f172a, #1e293b); color: #f8fafc; padding: 2rem; margin: 2.5rem 0; border-radius: 12px; box-shadow: 0 8px 24px rgba(0,0,0,0.15); position: relative; overflow: hidden;">
   <div style="position: absolute; bottom: -50px; left: -50px; width: 200px; height: 200px; background: radial-gradient(circle, rgba(236, 72, 153, 0.08) 0%, transparent 70%); filter: blur(30px); z-index: 0;"></div>
   
@@ -273,7 +261,6 @@
   </div>
 </div>
 
-<!-- Footer -->
 <div align="center" style="margin: 3rem 0 1rem; color: #64748b; font-size: 0.9rem; position: relative;">
   <p style="font-style: italic; margin-bottom: 1rem; color: #94a3b8;">
     "Innovation distinguishes between a leader and a follower." – Steve Jobs
