@@ -23,14 +23,10 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ezadin2&theme=nord&hide_border=true&background=1e293b&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=f8fafc&sideNums=94a3b8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" style="height: 180px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
     </div>
 
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-</div>
-
-<!-- GitHub Activity Graph -->
-<div align="center" style="margin-top: 2rem;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezadin2&theme=nord&hide_border=true&bg_color=1e293b&color=f8fafc&line=38bdf8&point=f8fafc&area=true&area_color=38bdf8&hide_title=true&height=220" alt="Activity Graph" width="100%" style="max-width: 100%; border-radius: 8px;" />
+  <!-- GitHub Snake Contribution Graph (Dark & Light) Side by Side -->
+<div align="center" style="display: flex; justify-content: center; gap: 1rem; flex-wrap: wrap; margin-top: 2rem;">
+  <img src="https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake Graph Dark" style="max-width: 100%; height: auto; border-radius: 8px;" />
+  <img src="https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake Graph Light" style="max-width: 100%; height: auto; border-radius: 8px;" />
 </div>
 
 <!-- Featured Projects Section -->
