@@ -13,9 +13,7 @@
   <h1 style="color: #38bdf8; font-size: 2.5rem; margin-bottom: 0.5rem; font-weight: 700; letter-spacing: -0.5px; z-index: 1;">Ezadin Badiru</h1>
   <h3 style="color: #94a3b8; font-weight: 400; margin-top: 0; font-size: 1.1rem; z-index: 1;">Flutter Developer | UI/UX Specialist | Tech Innovator</h3>
   <!-- GitHub Snake Contribution Graph -->
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-  ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  <!-- Typing Animation -->
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&height=70&lines=Flutter+Developer+%7C+UI%2FUX+Enthusiast;Tech+Innovator+%7C+Problem+Solver;" alt="Typing SVG" />
 
   <!-- GitHub Stats -->
@@ -24,7 +22,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc" alt="Top Languages" style="height: 180px; border-radius: 8px;"/>
   </div>
 
-
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/ezadin2/ezadin2/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  <!-- Typing Animation -->
 
 </div>
 
