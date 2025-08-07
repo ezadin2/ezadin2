@@ -1,4 +1,4 @@
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🌒™, [8/7/2025 6:34 AM]
+
 <!-- Profile Header with Glowing Effects -->
 <div align="center" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); color: #f8fafc; padding: 2.5rem 1.5rem; font-family: 'Inter', sans-serif; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); position: relative; overflow: hidden;">
 
@@ -39,8 +39,6 @@
 ## <span style="color: #38bdf8;">🚀 Featured Projects</span>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin-top: 1.5rem;">
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🌒™, [8/7/2025 6:34 AM]
 <!-- Project 1 -->
 <div style="background: #0f172a; padding: 1.2rem; border-radius: 8px; border-left: 4px solid #38bdf8;">
   <h3 style="margin-top: 0; color: #38bdf8;">Flutter E-Commerce App</h3>
@@ -98,8 +96,6 @@
 ## <span style="color: #38bdf8;">🛠 Tech Stack</span>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 0.6rem; margin-top: 1rem;">
-
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🌒™, [8/7/2025 6:34 AM]
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
