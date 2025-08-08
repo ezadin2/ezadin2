@@ -59,12 +59,12 @@
  📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sawi78112&show_icons=true&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&icon_color=38bdf8&text_color=f8fafc&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 180px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sawi78112&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc&langs_count=8" alt="Top Languages" style="height: 180px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ezadin2&show_icons=true&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&icon_color=38bdf8&text_color=f8fafc&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 180px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezadin2&layout=compact&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&text_color=f8fafc&langs_count=8" alt="Top Languages" style="height: 180px;"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sawi78112&theme=nord&hide_border=true&bg_color=1e293b&color=f8fafc&line=38bdf8&point=f8fafc&area=true&area_color=38bdf8&hide_title=true&height=300" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ezadin2&theme=nord&hide_border=true&bg_color=1e293b&color=f8fafc&line=38bdf8&point=f8fafc&area=true&area_color=38bdf8&hide_title=true&height=300" alt="Activity Graph" width="100%"/>
 </div>
 
 ## 🚀 What I Can Do
