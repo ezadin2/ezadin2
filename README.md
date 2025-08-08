@@ -91,9 +91,6 @@ I'm constantly learning and improving — whether it’s through projects, readi
   </tr>
   <tr>
     <!-- Design -->
-    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" title="Figma"></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="50" title="Adobe XD"></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/2101px-Adobe_Photoshop_CC_icon.svg.png" width="50" title="Photoshop"></td>
     
     
   <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" title="Git"></td>
