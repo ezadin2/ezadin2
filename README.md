@@ -31,34 +31,50 @@ I'm constantly learning and improving — whether it’s through projects, readi
     <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_solidity.png?raw=true" width="50" title="Solidity"></td>
     <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_metamask.png?raw=true" width="50" title="MetaMask"></td>
     
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" title="React"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="50" title="Vue.js"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript"></td>
-  
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python"></td>
-    <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg?raw=true" width="50" title="FastAPI"></td>
+    
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" title="React"></td>
+  <td><img src="https://cdn.iconscout.com/icon/free/png-128/vue-282497.png" width="50" title="Vue.js"></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" title="JavaScript"></td>
+    
+    
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python"></td>
+  <td><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg?raw=true" width="50" title="FastAPI"></td>
   </tr>
   <tr>
+    <!-- Mobile -->
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="50" title="Flutter"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="50" title="Dart"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" title="React Native"></td>
 
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" title="NumPy"></td>
+   
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" title="TensorFlow"></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" title="PyTorch"></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" title="NumPy"></td>
 
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" title="MongoDB"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" title="PostgreSQL"></td>
-    <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" title="Firebase"></td>
+   
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" title="MongoDB"></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50" title="PostgreSQL"></td>
+  <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" title="Firebase"></td>
   </tr>
   <tr>
+    <!-- Tools -->
     <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" title="Postman"></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" width="50" title="Adobe XD"></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="50" title="Adobe XD"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" title="Figma"></td>
+    
+    
+  <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" title="Git"></td>
+  <td><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="50" title="Docker"></td>
+  <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="50" title="MySQL"></td>
+    
+    
+  <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" title="Linux"></td>
+  <td><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="50" title="Ubuntu"></td>
+  <td><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="50" title="VS Code"></td>
   </tr>
 </table>
 </div>
-
 
 ## 📊 GitHub Stats
 
