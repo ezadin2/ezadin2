@@ -20,7 +20,7 @@
 💻 **Highly skilled Full Stack & AI Engineer** with expertise in web, mobile, and blockchain development  
 🚀 **Passionate innovator** building cutting-edge solutions with AI and blockchain technologies  
 🔒 **Security-focused** with expanding knowledge in machine learning and cybersecurity  
-📱 **Flutter expert** creating beautiful cross-platform mobile experiences  
+📱 **Junior Flutter Developer ** creating beautiful cross-platform mobile experiences  
 📚 **Continuous learner** with a love for personal development & financial literacy literature  
 ⚡ **Mantra**: *"What you do today can improve all of your tomorrows."*  
 
