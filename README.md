@@ -69,7 +69,7 @@
 
 ## 🚀 What I Can Do
 
-- DApps & Blockchain Solutions**: Development of decentralized applications and smart contracts
+- DApps & Blockchain Solutions: Development of decentralized applications and smart contracts
 - AI/ML Integration: Building intelligent systems with machine learning capabilities
 - Full Stack Development: End-to-end web and mobile application development
 - Crypto Trading Platforms: Creating secure trading platforms and bots
