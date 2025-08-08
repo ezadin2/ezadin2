@@ -14,7 +14,6 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 
-
 ## 🔥 About Me
 I'm passionate about cybersecurity and always exploring how machine learning can make systems smarter and safer.
 As a junior Flutter developer, I enjoy building clean, user-friendly mobile apps that work across platforms.
@@ -22,10 +21,11 @@ I'm constantly learning and improving — whether it’s through projects, readi
 
 ⚡My motto: "What you do today can improve all of your tomorrows."
 
+## 🛠 Tech Stack
 
 <div align="center">
   
-### 🛠 Tech Stack
+
   
 <table>
   <!-- Row 1: Blockchain & Web -->
