@@ -61,7 +61,7 @@
   </tr>
 </table>
 </div>
-## 📊 GitHub Stats
+ 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sawi78112&show_icons=true&theme=nord&hide_border=true&bg_color=1e293b&title_color=38bdf8&icon_color=38bdf8&text_color=f8fafc&include_all_commits=true&count_private=true" alt="GitHub Stats" style="height: 180px;"/>
