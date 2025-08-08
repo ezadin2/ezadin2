@@ -29,7 +29,7 @@
 
 
 ## 🛠 Tech Stack
-
+<div align="center">
 <table>
   <tr>
     <!-- Blockchain -->
@@ -60,7 +60,7 @@
     <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" title="Firebase"></td>
   </tr>
 </table>
-
+</div>
 ## 📊 GitHub Stats
 
 <div align="center">
