@@ -27,9 +27,6 @@
 📚 **Continuous learner** with a love for personal development & financial literacy literature  
 ⚡ **Mantra**: *"What you do today can improve all of your tomorrows."*  
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&height=70&lines=AI+Engineering+%7C+Cybersecurity+Enthusiast;Flutter+Development+%7C+Blockchain+Solutions;Full+Stack+Architecture+%7C+Machine+Learning" alt="Typing animation" />
-</div>
 
 ## 🛠 Tech Stack
 
