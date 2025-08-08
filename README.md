@@ -107,6 +107,7 @@ I'm constantly learning and improving — whether it’s through projects, readi
   </tr>
 </table>
 </div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
