@@ -1,3 +1,6 @@
+ <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="Profile Banner" width="50%" style="max-width: 700px; border-radius: 12px; z-index: 1;"/>
+
+
 <h1 align="center" dir="auto"> 
   <span style="color: #38bdf8;">Ezadin Badiru</span>
 </h1>
