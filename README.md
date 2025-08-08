@@ -14,8 +14,8 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sawi78112&label=Profile%20views&color=0e75b6&style=flat" alt="Sawi78112" />
-  <img src="https://img.shields.io/github/followers/Sawi78112?label=Follow&style=social" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=ezadin2&label=Profile%20views&color=0e75b6&style=flat" alt="Sawi78112" />
+  <img src="https://img.shields.io/github/followers/ezadin2?label=Follow&style=social" alt="GitHub followers" />
 </div>
 
 ## 🔥 About Me
