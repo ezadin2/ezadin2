@@ -88,6 +88,20 @@
   <div style="margin-top: 0.8rem;">
     <a href="https://aregenkibet.web.app/" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View Customer Page →</a>
   </div>
+<!-- Project 2 -->
+<div style="background: #0f172a; padding: 1.2rem; border-radius: 8px; border-left: 4px solid #38bdf8;">
+  <h3 style="margin-top: 0; color: #38bdf8;">Portfolio Website</h3>
+  <p>Modern responsive portfolio built with React.js, showcasing my projects and skills.</p>
+  <div style="display: flex; gap: 0.5rem; margin-top: 0.8rem;">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+    <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
+    <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+  </div>
+  <div style="margin-top: 0.8rem;">
+    <a href="https://my-portifolio-3ckvuho4y-ezadin-badrus-projects.vercel.app/" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View Live →</a>
+  </div>
+</div>
+
 
 </div>
 
