@@ -69,11 +69,10 @@
 
 ## 🚀 What I Can Do
 
-- **DApps & Blockchain Solutions**: Development of decentralized applications and smart contracts
-- **AI/ML Integration**: Building intelligent systems with machine learning capabilities
-- **Full Stack Development**: End-to-end web and mobile application development
-- **Crypto Trading Platforms**: Creating secure trading platforms and bots
-- **SaaS/CRM Systems**: Custom business solutions for various industries
+- DApps & Blockchain Solutions**: Development of decentralized applications and smart contracts
+- AI/ML Integration: Building intelligent systems with machine learning capabilities
+- Full Stack Development: End-to-end web and mobile application development
+- Crypto Trading Platforms: Creating secure trading platforms and bots
 
 ## 🌟 Featured Projects
 
@@ -82,8 +81,13 @@
 ### Flutter DinaMart E-commerce
 [![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)]()
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)]()
-Complete e-commerce solution with admin panel and customer interfaces.
-
+  <div style="margin-top: 0.8rem;">
+    <a href="https://adminpanel-bx43q6fid-ezadin-badrus-projects.vercel.app/" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View admin panel page →</a>
+  </div>
+  <div style="background: #0f172a; padding: 1.2rem; border-radius: 8px; border-left: 4px solid #38bdf8;">
+  <div style="margin-top: 0.8rem;">
+    <a href="https://aregenkibet.web.app/" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View Customer Page →</a>
+  </div>
 ### AI-Powered Trading Bot
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)]()
