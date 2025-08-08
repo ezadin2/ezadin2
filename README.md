@@ -91,19 +91,19 @@ I'm constantly learning and improving — whether it’s through projects, readi
   </tr>
   <tr>
     <!-- Design -->
-    <td><img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" width="50" title="Figma"></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg" width="50" title="Adobe XD"></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="50" title="Photoshop"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50" title="Figma"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="50" title="Adobe XD"></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50" title="Photoshop"></td>
     
     
-  <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" title="Git"></td>
-  <td><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="50" title="Docker"></td>
-  <td><img src="https://www.vectorlogo.zone/logos/postman/postman-icon.svg" width="50" title="Postman"></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" title="Git"></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" title="Docker"></td>
+  <td><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/postman-icon.svg" width="50" title="Postman"></td>
     
    
-  <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" title="Firebase"></td>
-  <td><img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="50" title="Linux"></td>
-  <td><img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="50" title="Ubuntu"></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="50" title="Firebase"></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" title="Linux"></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="50" title="Ubuntu"></td>
   </tr>
 </table>
 </div>
