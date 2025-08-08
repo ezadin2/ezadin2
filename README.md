@@ -15,12 +15,11 @@
 
 
 
-## 🔥 About Me
-
-🔒 **Security-focused** with expanding knowledge in machine learning and cybersecurity  
-📱 **Junior Flutter Developer** creating beautiful cross-platform mobile experiences  
-📚 **Continuous learner**
-⚡ **Mantra**: *"What you do today can improve all of your tomorrows."*  
+🔥 About Me
+I'm passionate about cybersecurity and always exploring how machine learning can make systems smarter and safer.
+As a junior Flutter developer, I enjoy building clean, user-friendly mobile apps that work across platforms.
+I'm constantly learning and improving — whether it’s through projects, reading, or hands-on experience.
+⚡ My motto: "What you do today can improve all of your tomorrows."
 
 
 ## 🛠 Tech Stack
