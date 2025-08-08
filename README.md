@@ -88,10 +88,6 @@
   <div style="margin-top: 0.8rem;">
     <a href="https://aregenkibet.web.app/" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View Customer Page →</a>
   </div>
-### AI-Powered Trading Bot
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)]()
-[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)]()
-Machine learning model for cryptocurrency price prediction and automated trading.
 
 </div>
 
