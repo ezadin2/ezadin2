@@ -13,18 +13,13 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ezadin2&label=Profile%20views&color=0e75b6&style=flat" alt="Sawi78112" />
-  <img src="https://img.shields.io/github/followers/ezadin2?label=Follow&style=social" alt="GitHub followers" />
-</div>
+
 
 ## 🔥 About Me
 
-💻 **Highly skilled Full Stack & AI Engineer** with expertise in web, mobile, and blockchain development  
-🚀 **Passionate innovator** building cutting-edge solutions with AI and blockchain technologies  
 🔒 **Security-focused** with expanding knowledge in machine learning and cybersecurity  
 📱 **Junior Flutter Developer** creating beautiful cross-platform mobile experiences  
-📚 **Continuous learner** with a love for personal development & financial literacy literature  
+📚 **Continuous learner**
 ⚡ **Mantra**: *"What you do today can improve all of your tomorrows."*  
 
 
@@ -123,4 +118,8 @@
 
 <div align="center" style="margin-top: 2rem; color: #94a3b8; font-size: 0.9rem;">
   <p><em>"Innovation distinguishes between a leader and a follower." – Steve Jobs</em></p>
+</div>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ezadin2&label=Profile%20views&color=0e75b6&style=flat" alt="Sawi78112" />
+  <img src="https://img.shields.io/github/followers/ezadin2?label=Follow&style=social" alt="GitHub followers" />
 </div>
