@@ -148,7 +148,7 @@ I'm constantly learning and improving — whether it’s through projects, readi
     <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
   </div>
   <div style="margin-top: 0.8rem;">
-    <a href="https://my-portifolio-3ckvuho4y-ezadin-badrus-projects.vercel.app/" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View Live →</a>
+    <a href="https://my-portifolio-liart.vercel.app/" style="color: #38bdf8; text-decoration: none; font-size: 0.9rem;">View Live →</a>
   </div>
 </div>
 
